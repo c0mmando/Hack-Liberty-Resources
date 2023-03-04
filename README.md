@@ -1,16 +1,33 @@
+<div align="center">
+
 # **Hack Liberty Resources**
 ### ***VERITAS - LIBERTAS - SCIENTIA***
+
+</div>
+
 ---
+
+<div align="center">
+
 ## **About [Hack Liberty](https://hackliberty.org)**
 
-We are a group of cypherpunks, privacy advocates, engineers, and philosophers dedicated to the pursuit of truth, liberty, and knowledge for all. We believe technology is a tool for liberation, not enslavement. We fight tyranny with encryption, decentralization, and anonymity. **[Join us](https://hackliberty.org/register)** in this fight for liberty.
+We are a group of cypherpunks, privacy advocates, engineers, and philosophers dedicated to the pursuit of truth, liberty, and knowledge for all. We believe technology is a tool for liberation, not enslavement. We fight tyranny with encryption, decentralization, and anonymity. **[Join us](https://hackliberty.org/register)** in the fight for liberty.
+
+</div>
+
 
 ---
+<div align="center">
+
 ## **Hack Liberty Services**
+
+[**[Terms of Service](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/terms-of-service.md) • [Code of Conduct](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md) • [Privacy Policy](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/privacy-policy.md)**] 
+
+</div>
 
 All our services use open source software and are open to the public. We **[anonymize logs](https://www.supertechcrew.com/anonymizing-logs-nginx-apache/)** and use **[full disk encryption](https://gitlab.com/cryptsetup/cryptsetup)** to preserve user privacy. Our hosting provider **[1984](http://1984.hosting/)** is located in **[Iceland](https://ctemplar.com/icelandic-privacy-laws/)** and supports human rights and free speech. Our **[Matrix Server](https://matrix.org/)** uses a **[hardened memory allocator](https://github.com/GrapheneOS/hardened_malloc)** and we use **[Alpine Linux](https://wiki.alpinelinux.org/wiki/Alpine_Linux:Overview)** whenever possible.
 
-- [Matrix](https://hackliberty.org/register) - an open protocol for real-time, distributed communications with strong end-to-end encryption, user verification, and other cryptographic protection mechanisms
+- [Matrix](https://hackliberty.org/register) - an open protocol for real-time, distributed communications with strong end-to-end encryption, user verification, and other cryptographic protection mechanisms. **[Register Here](https://hackliberty.org/register)** 
 - [Element](https://element.hackliberty.org) - a glossy Matrix client for the web built on top of matrix-react-sdk with an emphasis on performance and usability
 - [SchildiChat](https://chat.hackliberty.org) - a Matrix client for the web based on Element with a more traditional instant messaging experience
 - [Lemmy](https://links.hackliberty.org) - A link aggregator and forum for the fediverse
@@ -21,7 +38,13 @@ All our services use open source software and are open to the public. We **[anon
 - [Blog](https://blog.hackliberty.org) - A blog for long form content and guides
 
 ---
+
+<div align="center">
+
 ## **Hack Liberty Matrix Community**
+
+</div>
+
 
 Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/terms-of-service.md) + [Code of Conduct](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md) + [Privacy Policy](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/privacy-policy.md)] is welcome to [create](https://hackliberty.org/register) a Matrix account on our server and join the conversation!
 
@@ -42,9 +65,28 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
     - [RSS - Monero News](https://matrix.to/#/#monero-news:hackliberty.org) - `#monero-news:hackliberty.org`
     - [RSS - Security News](https://matrix.to/#/#security-news:hackliberty.org) - `#security-news:hackliberty.org`
 ---
+<div align="center">
 
 
+## **Donations and Transparency**
+
+*Please consider donating to help us pay for servers and infrastructure. We 100% out of our own pocket and any donations will help pay for server costs!*
+
+|![](/assets/img/donations_xmr_wallet.png)                |
+|:--------------:|
+| <mark>**Monero (XMR)**</mark> |
+**`881ayjjExYVhyqQBQFxdY6aQC5J5Ys3JNfvxC1r5WNwSVK3ysD4Sn6GfUbNf1JkhMEJWj11mNvzCW9XZLpyWkjHx6EftAXU`**
+**Tor** - [click here](http://trocadorfyhlu27aefre5u7zri66gudtzdyelymftvr4yjwcxhfaqsid.onion/anonpay/?ticker_to=xmr&network_to=Mainnet&address=881ayjjExYVhyqQBQFxdY6aQC5J5Ys3JNfvxC1r5WNwSVK3ysD4Sn6GfUbNf1JkhMEJWj11mNvzCW9XZLpyWkjHx6EftAXU&donation=True&amount=1.0&name=hackliberty.org&description=donation+to+hackliberty.org&ticker_from=xmr&network_from=Mainnet) to donate with cryptocurrencies other than Monero over Tor
+**Clearnet** - [click here](https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=881ayjjExYVhyqQBQFxdY6aQC5J5Ys3JNfvxC1r5WNwSVK3ysD4Sn6GfUbNf1JkhMEJWj11mNvzCW9XZLpyWkjHx6EftAXU&donation=True&amount=1.0&name=hackliberty.org&description=donation+to+hackliberty.org&ticker_from=xmr&network_from=Mainnet) to donate with cryptocurrencies other than Monero over Clearnet
+
+Current number of donations recieved: `1`
+
+</div>
+
+
+---
 ## **Recommended Matrix Rooms**
+
 - [Anonymity](https://matrix.to/#/#anonymity:matrix.anonymousplanet.org) - `#anonymity:matrix.anonymousplanet.org`
 - [Citadel Chat](https://matrix.to/#/#citadeldispatch:bitcoin.kyoto) - `#citadeldispatch:bitcoin.kyoto`
 - [GrapheneOS](https://matrix.to/#/#grapheneos:grapheneos.org) - `#grapheneos:grapheneos.org`
@@ -59,6 +101,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 ---
 ## **Philosophy Resources**
 ### **Agorism**
+
 - [An Agorist Primer](https://kopubco.com/pdf/An_Agorist_Primer_by_SEK3.pdf)
 - [An Argument Against KYC Bitcoin](https://archive.org/details/an-argument-against-kyc-bitcoin)
 - [​KYC-Free Bitcoin Circular Economies: Free The Markets, Free The World](https://bitcoinmagazine.com/business/kyc-free-bitcoin-circular-economies)
