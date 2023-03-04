@@ -70,7 +70,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 
 ## **Donations and Transparency**
 
-*Please consider donating to help us pay for servers and infrastructure. We 100% out of our own pocket and any donations will help pay for server costs!*
+*Please consider donating to help us pay for servers and infrastructure. We operate 100% out of our own pocket and any donations will help pay for server costs!*
 
 |![](/assets/img/donations_xmr_wallet.png)                |
 |:--------------:|
