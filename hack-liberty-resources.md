@@ -79,7 +79,13 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 **Tor** - [click here](http://trocadorfyhlu27aefre5u7zri66gudtzdyelymftvr4yjwcxhfaqsid.onion/anonpay/?ticker_to=xmr&network_to=Mainnet&address=881ayjjExYVhyqQBQFxdY6aQC5J5Ys3JNfvxC1r5WNwSVK3ysD4Sn6GfUbNf1JkhMEJWj11mNvzCW9XZLpyWkjHx6EftAXU&donation=True&amount=1.0&name=hackliberty.org&description=donation+to+hackliberty.org&ticker_from=xmr&network_from=Mainnet) to donate with cryptocurrencies other than Monero over Tor
 **Clearnet** - [click here](https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=881ayjjExYVhyqQBQFxdY6aQC5J5Ys3JNfvxC1r5WNwSVK3ysD4Sn6GfUbNf1JkhMEJWj11mNvzCW9XZLpyWkjHx6EftAXU&donation=True&amount=1.0&name=hackliberty.org&description=donation+to+hackliberty.org&ticker_from=xmr&network_from=Mainnet) to donate with cryptocurrencies other than Monero over Clearnet
 
-Current number of donations recieved: `1`
+---
+
+**Current number of donations recieved**: `1`
+
+---
+
+**Operating Costs**: $60 a month / $700 a year
 
 </div>
 
