@@ -92,6 +92,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 
 
 ---
+<div align="center">
 
 
 ## **Donations and Transparency**
