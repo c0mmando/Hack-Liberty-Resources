@@ -71,6 +71,8 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 
 </div>
 
+Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/terms-of-service.md) + [Code of Conduct](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md) + [Privacy Policy](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/privacy-policy.md)] is welcome to [create](https://links.hackliberty.org/signup) a Lemmy account on our server to start sharing links!
+
 - [Agorism](https://links.hackliberty.org/c/agorism) - `https://links.hackliberty.org/c/agorism`
 - [Bitcoin](https://links.hackliberty.org/c/bitcoin) - `https://links.hackliberty.org/c/bitcoin`
 - [Conspiracy](https://links.hackliberty.org/c/conspiracy) - `https://links.hackliberty.org/c/conspiracy`
