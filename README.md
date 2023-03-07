@@ -240,11 +240,12 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [SMS4Sats](https://sms4sats.com/) - offers SMS verification numbers online
 
 ---
-## **Privacy and Security Resources**
+## **Privacy and Security Articles**
 ### **Guides**
 - [AnonymousPlanet.org](https://anonymousplanet.org/) - a community contributed online guide to anonymity written for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed, censored, harassed anywhere
 - [PrivacyGuides.org](https://www.privacyguides.org/) - a non-profit, socially motivated website that provides information for protecting your data security and privacy
 - [AnonymousLand.org](https://www.anonymousland.org) - a community dedicated to providing anonymity enhancing guides and services
+- [Into the Crypt](https://0xacab.org/optout/into-the-crypt) - the art of anti-forensics
 - [Advanced Privacy and Anonymity Using VMs, VPN’s, Tor](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-1/) - a series of guides that explains how to obtain vastly greater freedom, privacy and anonymity through compartmentalization and isolation through nested chains of VPNs and Tor
 - [How to create anonymous Telegram and Signal accounts without a phone](https://agorism.blog/anarkio/anonymous-telegram-account) - a guide for using Whonix & Anbox to create anonymous mobile accounts without a phone
 
@@ -319,7 +320,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Zardaxt.py](https://github.com/NikolaiT/zardaxt) - TCP/IP fingerprinting for VPN and Proxy Detection
 
 ---
-## **Awesome Git Resource Mirrors**
+## **Awesome Git Resource Mirrors and Projects**
 
 ### **Artifical Intelligence**
 - [ai-collection](https://git.hackliberty.org/Awesome-Mirrors/ai-collection) - a collection of awesome generative AI applications 
@@ -339,20 +340,47 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [awesome-youtubers](https://git.hackliberty.org/Awesome-Mirrors/awesome-youtubers) - an awesome list of YouTubers that teach about technology
 - [OSSU-computer-science](https://git.hackliberty.org/Awesome-Mirrors/OSSU-computer-science) - path to a free self-taught education in Computer Science
 
-
-
 ### **Crypto**
 - [awesome-blockchain](https://git.hackliberty.org/Awesome-Mirrors/awesome-blockchain) - curated list of resources for the development and applications of blockchain
 - [awesome-cryptography](https://git.hackliberty.org/Awesome-Mirrors/awesome-cryptography) - a curated list of cryptography resources and links
 - [awesome-crypto-papers](https://git.hackliberty.org/Awesome-Mirrors/awesome-crypto-papers) - a curated list of cryptography papers, articles, tutorials and how-tos
 - [awesome-decentralized-finance](https://git.hackliberty.org/Awesome-Mirrors/awesome-decentralized-finance) - a curated list of awesome decentralized finance projects
 - [Crypto-OpSec-SelfGuard-RoadMap](https://git.hackliberty.org/Awesome-Mirrors/Crypto-OpSec-SelfGuard-RoadMap) - defi, blockchain and crypto-related opsec research
+- [kycnot.me](https://git.hackliberty.org/Git-Mirrors/kycnot.me) - don't get KYC'ed
+- [tornado-cash-docs](https://git.hackliberty.org/Git-Mirrors/tornado-cash-docs) - tornado cash is a fully decentralized non-custodial protocol allowing private crypto transactions
+- [tornado-core](https://git.hackliberty.org/Git-Mirrors/tornado-core) - tornado cash. non-custodial private transactions on Ethereum
+- [tornado-cli](https://git.hackliberty.org/Git-Mirrors/tornado-cli) - command line interface to make transactions in Tornado Cash protocol
+- [tornado-relayer](https://git.hackliberty.org/Git-Mirrors/tornado-relayer) - relayer for Tornado cash
+- [xmr-btc-swap](https://git.hackliberty.org/Git-Mirrors/xmr-btc-swap) - bitcoin to monero cross-chain atomic swap
 
 ### **Data Hoarding**
 - [awesome-data-labeling](https://git.hackliberty.org/Awesome-Mirrors/awesome-data-labeling) - a curated list of awesome data labeling tools
 - [awesome-ipfs](https://git.hackliberty.org/Awesome-Mirrors/awesome-ipfs) - useful resources for using IPFS and building things on top of it
 - [awesome-piracy](https://git.hackliberty.org/Awesome-Mirrors/awesome-piracy) - a curated list of awesome warez and piracy links
 - [awesome-web-archiving](https://git.hackliberty.org/Awesome-Mirrors/awesome-web-archiving) - an awesome list for getting started with web archiving 
+
+### **Hardware**
+- [awesome-flipperzero](https://git.hackliberty.org/Awesome-Mirrors/awesome-flipperzero) - a collection of awesome resources for the Flipper Zero device
+- [portapack-mayhem](https://git.hackliberty.org/Git-Mirrors/portapack-mayhem) - custom firmware for the HackRF+PortaPack H1/H2
+- [tillitis-key](https://git.hackliberty.org/Git-Mirrors/tillitis-key) - board designs, FPGA verilog, firmware for TKey, the flexible and open USB security key
+
+### **Misc**
+- [awesome-lockpicking](https://git.hackliberty.org/Awesome-Mirrors/awesome-lockpicking) - a curated list of resources related to the compromise of locks, safes, and keys
+- [awesome-readme](https://git.hackliberty.org/Awesome-Mirrors/awesome-readme) - a curated list of awesome READMEs
+ - [search-engine-optimization](https://git.hackliberty.org/Awesome-Mirrors/search-engine-optimization) - a helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques
+
+### **Mobile**
+- [GrapheneOS](https://github.com/GrapheneOS) - security and privacy focused mobile OS with Android app compatibility
+- [DivestOS](https://git.hackliberty.org/Git-Mirrors/DivestOS) - a more private and more secure aftermarket mobile operating system
+- [blue-merle](https://git.hackliberty.org/Git-Mirrors/blue-merle) - enhance anonymity and reduces forensic traceability of the GL-E750 Mudi 4G mobile wi-fi router
+
+
+### **Open Source Intelligence**
+- [awesome-geospatial](https://git.hackliberty.org/Awesome-Mirrors/Awesome-Geospatial) - long list of geospatial tools and resources
+- [awesome-hacker-search-engines](https://git.hackliberty.org/Awesome-Mirrors/awesome-hacker-search-engines) - a curated list of awesome hacker search engines
+- [awesome-osint](https://git.hackliberty.org/Awesome-Mirrors/awesome-osint) - a curated list of amazingly awesome open source intelligence tools and resources
+- [awesome-shodan-queries](https://git.hackliberty.org/Awesome-Mirrors/awesome-shodan-queries) - a collection of interesting, funny, and depressing search queries to plug into shodan
+- [awesome-telegram-osint](https://git.hackliberty.org/Awesome-Mirrors/Awesome-Telegram-OSINT) - a curated list of awesome telegram OSINT tools, sites & resources 
 
 ### **Privacy**
 - [alternative-front-ends](https://git.hackliberty.org/Awesome-Mirrors/alternative-front-ends) - alternative open source front-ends for popular internet platforms
@@ -361,18 +389,13 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [awesome-privacy](https://git.hackliberty.org/Awesome-Mirrors/Awesome-Privacy) - a curated list of services and alternatives that respect your privacy because PRIVACY MATTERS  
 - [awesome-qubes-os](https://git.hackliberty.org/Awesome-Mirrors/awesome-qubes-os) - a curated list of awesome qubes os links
 - [decentralized-id](https://git.hackliberty.org/Awesome-Mirrors/decentralized-id.github.io) - self sovereign identity
-
-### **Misc**
-- [awesome-lockpicking](https://git.hackliberty.org/Awesome-Mirrors/awesome-lockpicking) - a curated list of resources related to the compromise of locks, safes, and keys
-- [awesome-readme](https://git.hackliberty.org/Awesome-Mirrors/awesome-readme) - a curated list of awesome READMEs
- - [search-engine-optimization](https://git.hackliberty.org/Awesome-Mirrors/search-engine-optimization) - a helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques
-
-### **Open Source Intelligence**
-- [awesome-geospatial](https://git.hackliberty.org/Awesome-Mirrors/Awesome-Geospatial) - long list of geospatial tools and resources
-- [awesome-hacker-search-engines](https://git.hackliberty.org/Awesome-Mirrors/awesome-hacker-search-engines) - a curated list of awesome hacker search engines
-- [awesome-osint](https://git.hackliberty.org/Awesome-Mirrors/awesome-osint) - a curated list of amazingly awesome open source intelligence tools and resources
-- [awesome-shodan-queries](https://git.hackliberty.org/Awesome-Mirrors/awesome-shodan-queries) - a collection of interesting, funny, and depressing search queries to plug into shodan
-- [awesome-telegram-osint](https://git.hackliberty.org/Awesome-Mirrors/Awesome-Telegram-OSINT) - a curated list of awesome telegram OSINT tools, sites & resources 
+- [firefox-user.js](https://git.hackliberty.org/Git-Mirrors/firefox-user.js) - a comprehensive user.js template for configuration and hardening 
+- [into-the-crypt](https://git.hackliberty.org/Git-Mirrors/into-the-crypt) - the art of anti-forensics
+- [privacyguides.org](https://git.hackliberty.org/Git-Mirrors/privacyguides.org) - protect your data against global mass surveillance programs
+- [qubes-community-content](https://git.hackliberty.org/Git-Mirrors/Qubes-Community-Content) - community documentation, code, links to third-party resources
+- [qubes-doc](https://git.hackliberty.org/Git-Mirrors/qubes-doc) - qubes os project documentation
+- [thunderbird-user.js](https://git.hackliberty.org/Git-Mirrors/thunderbird-user.js) - comprehensive user.js template for configuration and hardening
+- [thgtoa](https://git.hackliberty.org/Git-Mirrors/thgtoa) - the comprehensive guide to online anonymity 
 
 ### **Security**
 - [awesome-api-security](https://git.hackliberty.org/Awesome-Mirrors/awesome-api-security) - a collection of awesome API Security tools and resources
@@ -382,7 +405,6 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [awesome-cybersecurity-blueteam](https://git.hackliberty.org/Awesome-Mirrors/awesome-cybersecurity-blueteam) - a curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams
 - [awesome-cyber-skills](https://git.hackliberty.org/Awesome-Mirrors/awesome-cyber-skills) - a curated list of hacking environments where you can train your cyber skills legally and safely 
 - [awesome-embedded-and-iot-security](https://git.hackliberty.org/Awesome-Mirrors/awesome-embedded-and-iot-security) - a curated list of awesome embedded and IoT security resources
-- [awesome-flipperzero](https://git.hackliberty.org/Awesome-Mirrors/awesome-flipperzero) - a collection of awesome resources for the Flipper Zero device
 - [awesome-fuzzing](https://git.hackliberty.org/Awesome-Mirrors/Awesome-Fuzzing) - a curated list of fuzzing resources
 - [awesome-honeypots](https://git.hackliberty.org/Awesome-Mirrors/awesome-honeypots) - an awesome list of honeypot resources
 - [awesome-incident-response](https://git.hackliberty.org/Awesome-Mirrors/awesome-incident-response) - a curated list of tools for incident response
@@ -403,9 +425,13 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [awesome-vulnerable](https://git.hackliberty.org/Awesome-Mirrors/awesome-vulnerable) - a curated list of vulnerable apps and systems
 - [awesome-WAF](https://git.hackliberty.org/Awesome-Mirrors/Awesome-WAF) - everything about web application firewalls (WAFs)
 - [awesome-web-security](https://git.hackliberty.org/Awesome-Mirrors/awesome-web-security) - a curated list of web security materials and resources
+- [constellation](https://git.hackliberty.org/Git-Mirrors/constellation) - constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing
 - [cyber-security-resources](https://git.hackliberty.org/Awesome-Mirrors/cyber-security-resources) - thousands of cyber security resources 
+- [EndGame](https://git.hackliberty.org/Git-Mirrors/EndGame) - onion service DDOS prevention front system
 - [ForensicsTools](https://git.hackliberty.org/Awesome-Mirrors/ForensicsTools) - a list of free and open forensics analysis tools and other resources 
+- [hardened_malloc](https://git.hackliberty.org/Git-Mirrors/hardened_malloc) - hardened memory allocator designed for modern systems
 - [my-infosec-awesome](https://git.hackliberty.org/Awesome-Mirrors/my-infosec-awesome) - curated list of awesome links, resources and tools on infosec related topics 
+- [plague-kernel](https://git.hackliberty.org/Git-Mirrors/plague-kernel) - minimal linux kernel for a reduced attack surface
 - [personal-security-checklist](https://git.hackliberty.org/Awesome-Mirrors/personal-security-checklist) - a compiled checklist of 300+ tips for protecting digital security and privacy
 - [security-apis](https://git.hackliberty.org/Awesome-Mirrors/security-apis) - a collective list of public APIs for use in security
 - [WebHackersWeapons](https://git.hackliberty.org/Awesome-Mirrors/WebHackersWeapons) - a collection of cool tools used by web hackers
