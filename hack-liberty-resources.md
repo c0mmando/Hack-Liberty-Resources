@@ -330,6 +330,8 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [awesome-deep-text-detection-recognition](https://git.hackliberty.org/Awesome-Mirrors/awesome-deep-text-detection-recognition) - a curated list of resources for optical character recognition with deep learning methods
 - [awesome-sentiment-analysis](https://git.hackliberty.org/Awesome-Mirrors/awesome-sentiment-analysis) - a curated list of Sentiment Analysis methods, implementations and misc.
 - [awesome-stable-diffusion](https://git.hackliberty.org/Awesome-Mirrors/awesome-stable-diffusion) - curated list of awesome resources for the Stable Diffusion AI Model
+- [ChatGPT-prompt-generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator) - an app that generates ChatGPT prompts
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - powerful unofficial ChatGPT client
 
 ### **Computer Science**
 - [awesome-cli-apps](https://git.hackliberty.org/Awesome-Mirrors/awesome-cli-apps) - a curated list of command line apps
