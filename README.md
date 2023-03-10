@@ -326,12 +326,12 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [ai-collection](https://git.hackliberty.org/Awesome-Mirrors/ai-collection) - a collection of awesome generative AI applications 
 - [awesome-bots](https://git.hackliberty.org/Awesome-Mirrors/awesome-bots) - the most awesome list about bots 
 - [awesome-chatgpt](https://git.hackliberty.org/Awesome-Mirrors/awesome-chatgpt) - a curated list of ChatGPT related resource, tools, prompts, apps
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - ChatGPT prompt curation
+- [awesome-chatgpt-prompts](https://git.hackliberty.org/Awesome-Mirrors/awesome-chatgpt-prompts) - ChatGPT prompt curation
 - [awesome-deep-text-detection-recognition](https://git.hackliberty.org/Awesome-Mirrors/awesome-deep-text-detection-recognition) - a curated list of resources for optical character recognition with deep learning methods
 - [awesome-sentiment-analysis](https://git.hackliberty.org/Awesome-Mirrors/awesome-sentiment-analysis) - a curated list of Sentiment Analysis methods, implementations and misc.
 - [awesome-stable-diffusion](https://git.hackliberty.org/Awesome-Mirrors/awesome-stable-diffusion) - curated list of awesome resources for the Stable Diffusion AI Model
 - [ChatGPT-prompt-generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator) - an app that generates ChatGPT prompts
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - powerful unofficial ChatGPT client
+- [lencx/ChatGPT](https://git.hackliberty.org/Git-Mirrors/Unofficial-ChatGPT-Client) - powerful unofficial ChatGPT client
 
 ### **Computer Science**
 - [awesome-cli-apps](https://git.hackliberty.org/Awesome-Mirrors/awesome-cli-apps) - a curated list of command line apps
