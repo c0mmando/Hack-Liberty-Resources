@@ -53,6 +53,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
     - [Artifical Intelligence (AI)](https://matrix.to/#/#ai:hackliberty.org) - `#ai:hackliberty.org`
     - [Crypto Circular Economies](https://matrix.to/#/#circular-economy:hackliberty.org) - `#circular-economy:hackliberty.org`
     - [Cypherpunk Cryptopia](https://matrix.to/#/#cypherpunks:hackliberty.org) - `#cypherpunks:hackliberty.org`
+    - [Doomsday Bunker](https://matrix.to/#/#bunker:hackliberty.org) - `#bunker:hackliberty.org`
     - [Forbidden Knowledge](https://matrix.to/#/#forbidden-knowledge:hackliberty.org) - `#forbidden-knowledge:hackliberty.org`
     - [Anonymity Privacy and Security](https://matrix.to/#/#anon:hackliberty.org) - `#anon:hackliberty.org`
     - [Wireless and RF Hacking](https://matrix.to/#/#wireless-hacking:hackliberty.org) - `wireless-hacking:hackliberty.org`
