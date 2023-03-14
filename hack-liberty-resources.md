@@ -333,6 +333,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [awesome-stable-diffusion](https://git.hackliberty.org/Awesome-Mirrors/awesome-stable-diffusion) - curated list of awesome resources for the Stable Diffusion AI Model
 - [ChatGPT-prompt-generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator) - an app that generates ChatGPT prompts
 - [lencx/ChatGPT](https://git.hackliberty.org/Git-Mirrors/Unofficial-ChatGPT-Client) - powerful unofficial ChatGPT client
+- [jailbreakchat.com](https://www.jailbreakchat.com/) - a repository of ChatGPT jailbreaks
 
 ### **Computer Science**
 - [awesome-cli-apps](https://git.hackliberty.org/Awesome-Mirrors/awesome-cli-apps) - a curated list of command line apps
