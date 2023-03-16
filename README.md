@@ -30,12 +30,13 @@ All our services use open source software and are open to the public. We **[anon
 - [Matrix](https://hackliberty.org/register) - an open protocol for real-time, distributed communications with strong end-to-end encryption, user verification, and other cryptographic protection mechanisms. **[Register Here](https://hackliberty.org/register)** 
 - [Element](https://element.hackliberty.org) - a glossy Matrix client for the web built on top of matrix-react-sdk with an emphasis on performance and usability
 - [SchildiChat](https://chat.hackliberty.org) - a Matrix client for the web based on Element with a more traditional instant messaging experience
-- [Lemmy](https://links.hackliberty.org) - A link aggregator and forum for the fediverse
-- [Gitea](https://git.hackliberty.org) - A painless self-hosted Git service
+- [Cinny](https://cinny.hackliberty.org) - yet another Matrix web client
+- [Lemmy](https://links.hackliberty.org) - a link aggregator and forum for the fediverse
+- [Gitea](https://git.hackliberty.org) - a painless self-hosted Git service
 - [Bookstack](https://docs.hackliberty.org) - an opinionated wiki system that provides a pleasant and simple out-of-the-box experience 
 - [PrivateBin](https://paste.hackliberty.org)- a minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256bit AES in Galois Counter mode
 - [OTS](https://ots.hackliberty.org) -  One-Time-Secret sharing platform with symmetric 256bit AES encryption in the browser
-- [Blog](https://blog.hackliberty.org) - A blog for long form content and guides
+- [Blog](https://blog.hackliberty.org) - a blog for long form content and guides
 
 ---
 
@@ -334,6 +335,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [ChatGPT-prompt-generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator) - an app that generates ChatGPT prompts
 - [lencx/ChatGPT](https://git.hackliberty.org/Git-Mirrors/Unofficial-ChatGPT-Client) - powerful unofficial ChatGPT client
 - [jailbreakchat.com](https://www.jailbreakchat.com/) - a repository of ChatGPT jailbreaks
+- [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - a ChatGPT bot for Matrix
 
 ### **Computer Science**
 - [awesome-cli-apps](https://git.hackliberty.org/Awesome-Mirrors/awesome-cli-apps) - a curated list of command line apps
