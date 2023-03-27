@@ -110,11 +110,11 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 
 ---
 
-**Current number of donations recieved**: `1`
+**Current number of donations recieved**: `2`
 
 ---
 
-**Operating Costs**: $85 a month / $1000 a year
+**Operating Costs**: $130 a month / $1560 a year
 
 </div>
 
