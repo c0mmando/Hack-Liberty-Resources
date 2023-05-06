@@ -110,7 +110,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 
 ---
 
-**Current number of donations recieved**: `2`
+**Current number of donations received**: `2`
 
 ---
 
