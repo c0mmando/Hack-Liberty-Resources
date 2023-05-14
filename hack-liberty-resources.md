@@ -153,7 +153,6 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Second Realm: Book on Strategy](https://ia801807.us.archive.org/34/items/second-realm-digital/Second%20Realm%20Paperback%20New.pdf)
 - [Fifty things to do NOW](https://libertyunderattack.com/fifty-things-now-free-unashamed)
 - [Second Realm Ideas](https://agorism.blog/anarkio/second-realm-ideas)
-- [Why cryptoanarchy is not a revolutionary movement](https://archive.fo/cmbPr)
 - [50+ libertarian, agorist and anarchist ebooks (SEK3, Mises, Rothbard & more)](https://flote.app/post/f30255c4-392a-4360-a02c-e4b0e6cee410)
 - [Why cryptoanarchy is not a revolutionary movement](https://web.archive.org/web/20210301162217/https://fragment-x6.net/posts/why-cryptoanarchy-is-not-a-revolutionary-movement/)
 - [The Vision of Cryptoanarchy](https://yewtu.be/watch?v=TQmBoicjPXo)
