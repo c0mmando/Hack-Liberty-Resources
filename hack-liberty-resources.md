@@ -145,6 +145,9 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [KYC-free Bitcoin Circular Economies](https://bitcoinmagazine.com/business/kyc-free-bitcoin-circular-economies)
 - [Building a circular economy with Monero](https://monerochan.news/article/4)
 - [Agorist Journal](https://agorist.xyz/)
+- [Agorist Class Theory](https://agorism.eu.org/docs/AgoristClassTheory.pdf)
+- [New Libertarian Manifesto](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-new-libertarian-manifesto)
+- [The Last, Whole Introduction to Agorism ](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-the-last-whole-introduction-to-agorism)
 
 ### **Crypto Anarchy**
 - [Second Realm: Book on Strategy](https://ia801807.us.archive.org/34/items/second-realm-digital/Second%20Realm%20Paperback%20New.pdf)
@@ -152,6 +155,9 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Second Realm Ideas](https://agorism.blog/anarkio/second-realm-ideas)
 - [Why cryptoanarchy is not a revolutionary movement](https://archive.fo/cmbPr)
 - [50+ libertarian, agorist and anarchist ebooks (SEK3, Mises, Rothbard & more)](https://flote.app/post/f30255c4-392a-4360-a02c-e4b0e6cee410)
+- [Why cryptoanarchy is not a revolutionary movement](https://web.archive.org/web/20210301162217/https://fragment-x6.net/posts/why-cryptoanarchy-is-not-a-revolutionary-movement/)
+- [The Vision of Cryptoanarchy](https://yewtu.be/watch?v=TQmBoicjPXo)
+- [The Aristocracy of Action](https://darknet.org/hosted/files/aoa.txt)
 - [Roadblocks to obtaining government-issued ID](https://agorism.blog/anarkio/roadblocks-to-obtaining-government-id)
 - [True Names Not Required: On Identity and Pseudonymity in Cyberspace](https://dergigi.medium.com/true-names-not-required-fc6647dfe24a)
 - [How to survive outside of the state with Crypto Agorism](https://agorism.blog/anarkio/survival-outside-the-state)
