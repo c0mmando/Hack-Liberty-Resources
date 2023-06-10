@@ -254,6 +254,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 ### **Guides**
 - [AnonymousPlanet.org](https://anonymousplanet.org/) - a community contributed online guide to anonymity written for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed, censored, harassed anywhere
 - [PrivacyGuides.org](https://www.privacyguides.org/) - a non-profit, socially motivated website that provides information for protecting your data security and privacy
+- [Extreme Privacy 4th Edition](https://annas-archive.org/md5/3bca9891bf832a50e0f8d7aee7555eb3) - Michael Bazzell has helped hundreds of celebrities, billionaires, and everyday citizens disappear completely from public view.
 - [AnonymousLand.org](https://www.anonymousland.org) - a community dedicated to providing anonymity enhancing guides and services
 - [Into the Crypt](https://0xacab.org/optout/into-the-crypt) - the art of anti-forensics
 - [Advanced Privacy and Anonymity Using VMs, VPN’s, Tor](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-1/) - a series of guides that explains how to obtain vastly greater freedom, privacy and anonymity through compartmentalization and isolation through nested chains of VPNs and Tor
