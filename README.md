@@ -135,7 +135,12 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Opt Out Podcast](https://matrix.to/#/#optout-general:matrix.optoutpod.com) - `#optout-general:matrix.optoutpod.com`
 
 ---
-## **Philosophy Resources**
+## **Knowledge and Wisdom**
+
+### **Start Here**
+- [Mark Passio: Natural Law Seminar](https://yewtu.be/watch?v=lWwQCvg1W7w)
+- [The End of All Evil - Jeremy Locke](https://annas-archive.org/md5/472bb40f21a8e0fc1b3809f2f645ec59)
+
 ### **Agorism**
 
 - [An Agorist Primer](https://kopubco.com/pdf/An_Agorist_Primer_by_SEK3.pdf)
