@@ -30,7 +30,6 @@ All our services use open source software and are open to the public. We **[anon
 - [Matrix](https://hackliberty.org/register) - an open protocol for real-time, distributed communications with strong end-to-end encryption, user verification, and other cryptographic protection mechanisms. **[Register Here](https://hackliberty.org/register)** 
 - [Element](https://element.hackliberty.org) - a glossy Matrix client for the web built on top of matrix-react-sdk with an emphasis on performance and usability
 - [SchildiChat](https://chat.hackliberty.org) - a Matrix client for the web based on Element with a more traditional instant messaging experience
-- [Cinny](https://cinny.hackliberty.org) - yet another Matrix web client
 - [Lemmy](https://links.hackliberty.org) - a link aggregator and forum for the fediverse
 - [Gitea](https://git.hackliberty.org) - a painless self-hosted Git service
 - [Bookstack](https://docs.hackliberty.org) - an opinionated wiki system that provides a pleasant and simple out-of-the-box experience 
@@ -51,12 +50,12 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 
 - [Hack Liberty Space](https://matrix.to/#/#hackliberty.org:hackliberty.org) - `#hackliberty.org:hackliberty.org`
     - [Hack Liberty Community](https://matrix.to/#/#community:hackliberty.org) - `#community:hackliberty.org`
+    - [Anonymity Privacy and Security](https://matrix.to/#/#anon:hackliberty.org) - `#anon:hackliberty.org`
+    - [Hidden Knowledge](https://matrix.to/#/#hidden-knowledge:hackliberty.org) - `#hidden-knowledge:hackliberty.org`
     - [Artifical Intelligence (AI)](https://matrix.to/#/#ai:hackliberty.org) - `#ai:hackliberty.org`
     - [Crypto Circular Economies](https://matrix.to/#/#circular-economy:hackliberty.org) - `#circular-economy:hackliberty.org`
     - [Cypherpunk Cryptopia](https://matrix.to/#/#cypherpunks:hackliberty.org) - `#cypherpunks:hackliberty.org`
     - [Doomsday Bunker](https://matrix.to/#/#bunker:hackliberty.org) - `#bunker:hackliberty.org`
-    - [Forbidden Knowledge](https://matrix.to/#/#forbidden-knowledge:hackliberty.org) - `#forbidden-knowledge:hackliberty.org`
-    - [Anonymity Privacy and Security](https://matrix.to/#/#anon:hackliberty.org) - `#anon:hackliberty.org`
     - [Wireless and RF Hacking](https://matrix.to/#/#wireless-hacking:hackliberty.org) - `wireless-hacking:hackliberty.org`
     - [RSS - Cypherpunk News](https://matrix.to/#/#cypherpunk-news:hackliberty.org) - `#cypherpunk-news:hackliberty.org`
     - [RSS - Dark Web News](https://matrix.to/#/#darkweb-news:hackliberty.org) - `#darkweb-news:hackliberty.org`
@@ -69,12 +68,28 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 ---
 <div align="center">
 
+
+## **Hack Liberty Simplex Community**
+
+</div>
+
+
+Anyone that agrees to our [Code of Conduct](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md) is welcome to join our [Simplex Chat](https://simplex.chat/) community, a decentralized, metadata resistant alternative to Matrix! Incognito profiles welcome!
+
+- **hackliberty.org / Hack Liberty Community** 
+    - https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FmoQ7oX9zvAX98kvW9e7ap4dLn0UymDhH%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAriOD6vVb9eraQFgnB9eT3hIyzFJOoUQ7tFdPUpvOVVw%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22knogxOxwA6nV1aCiEdgzhg%3D%3D%22%7Dorg:hackliberty.org`
+
+---
+<div align="center">
+
+
 ## **Hack Liberty Lemmy Community**
 
 </div>
 
 Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/terms-of-service.md) + [Code of Conduct](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md) + [Privacy Policy](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/privacy-policy.md)] is welcome to [create](https://links.hackliberty.org/signup) a Lemmy account on our server to start sharing links!
 
+- [9/11 Truth](https://links.hackliberty.org/c/911_truth) - `https://links.hackliberty.org/c/911_truth`
 - [Agorism](https://links.hackliberty.org/c/agorism) - `https://links.hackliberty.org/c/agorism`
 - [Artifical Intelligence](https://links.hackliberty.org/c/generative_ai) - `https://links.hackliberty.org/c/generative_ai`
 - [Bitcoin](https://links.hackliberty.org/c/bitcoin) - `https://links.hackliberty.org/c/bitcoin`
@@ -82,6 +97,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Encryption](https://links.hackliberty.org/c/encryption) - `https://links.hackliberty.org/c/encryption`
 - [Flipper Zero](https://links.hackliberty.org/c/flipper_zero) - `https://links.hackliberty.org/c/flipper_zero`
 - [Fringe](https://links.hackliberty.org/c/fringe) - `https://links.hackliberty.org/c/fringe`
+- [Guns](https://links.hackliberty.org/c/guns) - `https://links.hackliberty.org/c/guns`
 - [Monero](https://links.hackliberty.org/c/monero) - `https://links.hackliberty.org/c/monero`
 - [Netsec](https://links.hackliberty.org/c/netsec) - `https://links.hackliberty.org/c/netsec`
 - [Philosophy](https://links.hackliberty.org/c/philosophy) - `https://links.hackliberty.org/c/philosophy`
@@ -89,9 +105,6 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Secret History](https://links.hackliberty.org/c/secret_history) - `https://links.hackliberty.org/c/secret_history`
 - [Tyranny](https://links.hackliberty.org/c/tyranny) - `https://links.hackliberty.org/c/tyranny`
 - [Warriorship](https://links.hackliberty.org/c/warriorship) - `https://links.hackliberty.org/c/warriorship`
-
-
-
 
 
 ---
@@ -115,7 +128,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 
 ---
 
-**Operating Costs**: $130 a month / $1560 a year
+**Operating Costs**: $220 a month / $2640 a year
 
 </div>
 
@@ -158,20 +171,20 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 ### **Crypto Anarchy**
 - [Second Realm: Book on Strategy](https://ia801807.us.archive.org/34/items/second-realm-digital/Second%20Realm%20Paperback%20New.pdf)
 - [Fifty things to do NOW](https://libertyunderattack.com/fifty-things-now-free-unashamed)
-- [Second Realm Ideas](https://agorism.blog/anarkio/second-realm-ideas)
+- [Second Realm Ideas](https://web.archive.org/web/20230603145240/https://agorism.blog/anarkio/second-realm-ideas)
 - [50+ libertarian, agorist and anarchist ebooks (SEK3, Mises, Rothbard & more)](https://flote.app/post/f30255c4-392a-4360-a02c-e4b0e6cee410)
 - [Why cryptoanarchy is not a revolutionary movement](https://web.archive.org/web/20210301162217/https://fragment-x6.net/posts/why-cryptoanarchy-is-not-a-revolutionary-movement/)
 - [The Vision of Cryptoanarchy](https://yewtu.be/watch?v=TQmBoicjPXo)
 - [The Aristocracy of Action](https://darknet.org/hosted/files/aoa.txt)
-- [Roadblocks to obtaining government-issued ID](https://agorism.blog/anarkio/roadblocks-to-obtaining-government-id)
+- [Roadblocks to obtaining government-issued ID](https://web.archive.org/web/20230321231712/https://agorism.blog/anarkio/roadblocks-to-obtaining-government-id)
 - [True Names Not Required: On Identity and Pseudonymity in Cyberspace](https://dergigi.medium.com/true-names-not-required-fc6647dfe24a)
-- [How to survive outside of the state with Crypto Agorism](https://agorism.blog/anarkio/survival-outside-the-state)
-- [Why the state’s monopoly on identity is more dangerous than Google, Facebook and Microsoft](https://agorism.blog/anarkio/why-the-states-monopoly-on-identity-is-more-dangerous-than-google-facebook)
+- [How to survive outside of the state with Crypto Agorism](https://web.archive.org/web/20230321231929/https://agorism.blog/anarkio/survival-outside-the-state)
+- [Why the state’s monopoly on identity is more dangerous than Google, Facebook and Microsoft](https://web.archive.org/web/20230603135922/https://agorism.blog/anarkio/why-the-states-monopoly-on-identity-is-more-dangerous-than-google-facebook)
 - [How to buy, earn and spend KYC-free Bitcoin and Monero (without ID or a bank account)](https://agorism.blog/anarkio/buy-earn-and-spend-bitcoin-and-monero)
 - [KYC Will Not Protect Us, Bitcoin And Encryption Will](https://bitcoinmagazine.com/culture/bitcoin-will-protect-your-personal-data)
-- [The rarely discussed dangers of KYC and what you can do about it](https://agorism.blog/anarkio/the-rarely-discussed-dangers-of-kyc-and-what-you-can-do-about-it)
-- [Why Twitter’s KYC’ed Bitcoin tips are dangerous and what KYC-free alternatives you can use](https://agorism.blog/anarkio/dangers-of-kyc-tips)
-- [The dangers of “decentralized” ID systems](https://agorism.blog/anarkio/dangers-of-decentralized-id-systems)
+- [The rarely discussed dangers of KYC and what you can do about it](https://web.archive.org/web/20230603150549/https://agorism.blog/anarkio/the-rarely-discussed-dangers-of-kyc-and-what-you-can-do-about-it)
+- [Why Twitter’s KYC’ed Bitcoin tips are dangerous and what KYC-free alternatives you can use](https://web.archive.org/web/20230603143302/https://agorism.blog/anarkio/dangers-of-kyc-tips)
+- [The dangers of “decentralized” ID systems](https://web.archive.org/web/20230321235957/https://agorism.blog/anarkio/dangers-of-decentralized-id-systems)
  
 ### **Manifestos**
 - [The GNU Manifesto (1985)](https://git.hackliberty.org/Philosophy/1985-GNU-Manifesto)
@@ -217,7 +230,6 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [HodlHodl](https://hodlhodl.com/) - global peer to peer bitcoin trading platform
 
 ### **Peer to Peer Crypto Marketplaces and Freelancing**
-- [Bitejo](https://bitejo.com/) - a marketplace for advertising goods and services for Bitcoin and Monero
 - [TukanMarket](https://tukan.market/) - a bitcoin marketplace for advertising goods and services
 - [Bitcoin P2P Marketplace](https://t.me/bitcoinp2pmarketplace) - a bitcoin P2P marketplace telegram channel
 - [Monero Market](https://reddit.com/r/moneromarket) - a reddit marketplace for buying and selling items with Monero
