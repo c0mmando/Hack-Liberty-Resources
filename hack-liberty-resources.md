@@ -36,9 +36,47 @@ All our services use open source software and are open to the public. We **[anon
 - [PrivateBin](https://paste.hackliberty.org)- a minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256bit AES in Galois Counter mode
 - [OTS](https://ots.hackliberty.org) -  One-Time-Secret sharing platform with symmetric 256bit AES encryption in the browser
 - [Blog](https://blog.hackliberty.org) - a blog for long form content and guides
+---
+
+<div align="center">
+
+## **Donations and Transparency**
+
+*Please consider donating to help us pay for servers and infrastructure. We operate 100% out of our own pocket and any donations will help pay for server costs!*
+
+|![](/assets/img/donations_xmr_wallet.png)                |
+|:--------------:|
+| <mark>**Monero (XMR)**</mark> |
+**`881ayjjExYVhyqQBQFxdY6aQC5J5Ys3JNfvxC1r5WNwSVK3ysD4Sn6GfUbNf1JkhMEJWj11mNvzCW9XZLpyWkjHx6EftAXU`**
+**Tor** - [click here](http://trocadorfyhlu27aefre5u7zri66gudtzdyelymftvr4yjwcxhfaqsid.onion/anonpay/?ticker_to=xmr&network_to=Mainnet&address=881ayjjExYVhyqQBQFxdY6aQC5J5Ys3JNfvxC1r5WNwSVK3ysD4Sn6GfUbNf1JkhMEJWj11mNvzCW9XZLpyWkjHx6EftAXU&donation=True&amount=1.0&name=hackliberty.org&description=donation+to+hackliberty.org&ticker_from=xmr&network_from=Mainnet) to donate with cryptocurrencies other than Monero over Tor
+**Clearnet** - [click here](https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=881ayjjExYVhyqQBQFxdY6aQC5J5Ys3JNfvxC1r5WNwSVK3ysD4Sn6GfUbNf1JkhMEJWj11mNvzCW9XZLpyWkjHx6EftAXU&donation=True&amount=1.0&name=hackliberty.org&description=donation+to+hackliberty.org&ticker_from=xmr&network_from=Mainnet) to donate with cryptocurrencies other than Monero over Clearnet
 
 ---
 
+**Current number of donations received**: `2`
+
+---
+
+**Operating Costs**: $220 a month / $2640 a year
+
+</div>
+
+---
+
+<div align="center">
+
+
+## **Hack Liberty Simplex Community**
+
+</div>
+
+
+Anyone that agrees to our [Code of Conduct](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md) is welcome to join our [Simplex Chat](https://simplex.chat/) community, a decentralized, metadata resistant alternative to Matrix! Incognito profiles welcome!
+
+- **hackliberty.org / Hack Liberty Community** 
+    - https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FmoQ7oX9zvAX98kvW9e7ap4dLn0UymDhH%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAriOD6vVb9eraQFgnB9eT3hIyzFJOoUQ7tFdPUpvOVVw%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22knogxOxwA6nV1aCiEdgzhg%3D%3D%22%7Dorg:hackliberty.org`
+
+---
 <div align="center">
 
 ## **Hack Liberty Matrix Community**
@@ -66,20 +104,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
     - [RSS - Monero News](https://matrix.to/#/#monero-news:hackliberty.org) - `#monero-news:hackliberty.org`
     - [RSS - Security News](https://matrix.to/#/#security-news:hackliberty.org) - `#security-news:hackliberty.org`
 ---
-<div align="center">
 
-
-## **Hack Liberty Simplex Community**
-
-</div>
-
-
-Anyone that agrees to our [Code of Conduct](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md) is welcome to join our [Simplex Chat](https://simplex.chat/) community, a decentralized, metadata resistant alternative to Matrix! Incognito profiles welcome!
-
-- **hackliberty.org / Hack Liberty Community** 
-    - https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FmoQ7oX9zvAX98kvW9e7ap4dLn0UymDhH%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAriOD6vVb9eraQFgnB9eT3hIyzFJOoUQ7tFdPUpvOVVw%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22knogxOxwA6nV1aCiEdgzhg%3D%3D%22%7Dorg:hackliberty.org`
-
----
 <div align="center">
 
 
@@ -107,30 +132,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Warriorship](https://links.hackliberty.org/c/warriorship) - `https://links.hackliberty.org/c/warriorship`
 
 
----
-<div align="center">
 
-
-## **Donations and Transparency**
-
-*Please consider donating to help us pay for servers and infrastructure. We operate 100% out of our own pocket and any donations will help pay for server costs!*
-
-|![](/assets/img/donations_xmr_wallet.png)                |
-|:--------------:|
-| <mark>**Monero (XMR)**</mark> |
-**`881ayjjExYVhyqQBQFxdY6aQC5J5Ys3JNfvxC1r5WNwSVK3ysD4Sn6GfUbNf1JkhMEJWj11mNvzCW9XZLpyWkjHx6EftAXU`**
-**Tor** - [click here](http://trocadorfyhlu27aefre5u7zri66gudtzdyelymftvr4yjwcxhfaqsid.onion/anonpay/?ticker_to=xmr&network_to=Mainnet&address=881ayjjExYVhyqQBQFxdY6aQC5J5Ys3JNfvxC1r5WNwSVK3ysD4Sn6GfUbNf1JkhMEJWj11mNvzCW9XZLpyWkjHx6EftAXU&donation=True&amount=1.0&name=hackliberty.org&description=donation+to+hackliberty.org&ticker_from=xmr&network_from=Mainnet) to donate with cryptocurrencies other than Monero over Tor
-**Clearnet** - [click here](https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=881ayjjExYVhyqQBQFxdY6aQC5J5Ys3JNfvxC1r5WNwSVK3ysD4Sn6GfUbNf1JkhMEJWj11mNvzCW9XZLpyWkjHx6EftAXU&donation=True&amount=1.0&name=hackliberty.org&description=donation+to+hackliberty.org&ticker_from=xmr&network_from=Mainnet) to donate with cryptocurrencies other than Monero over Clearnet
-
----
-
-**Current number of donations received**: `2`
-
----
-
-**Operating Costs**: $220 a month / $2640 a year
-
-</div>
 
 
 ---
@@ -140,66 +142,86 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Citadel Chat](https://matrix.to/#/#citadeldispatch:bitcoin.kyoto) - `#citadeldispatch:bitcoin.kyoto`
 - [GrapheneOS](https://matrix.to/#/#grapheneos:grapheneos.org) - `#grapheneos:grapheneos.org`
 - [GrapheneOS Off Topic](https://matrix.to/#/#offtopic:grapheneos.org) - `#offtopic:grapheneos.org`
-- [Monero](https://matrix.to/#/#monero:monero.social) - `#monero:monero.social`
-- [Monero Community](https://matrix.to/#/#monero-community:monero.social) - `#monero-community:monero.social`
-- [Privacy Discussion](https://matrix.to/#/#privacy-discussion:matrix.org) - `#privacy-discussion:matrix.org`
+- [Invidious](https://matrix.to/#/#invidious:matrix.org) - `#invidious:matrix.org`
+- [MoneroTopia](https://matrix.to/#/#monerotopia:monero.social) - `#monerotopia:monero.social`
 - [Privacy Guides Main](https://matrix.to/#/#main:privacyguides.org) - `#main:privacyguides.org`
 - [Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org) - `#cybersec-qubes_os:matrix.org`
+- [Qubes-Public](https://matrix.to/#/#qubes:invisiblethingslab.com) - `#qubes:invisiblethingslab.com`
 - [Opt Out Podcast](https://matrix.to/#/#optout-general:matrix.optoutpod.com) - `#optout-general:matrix.optoutpod.com`
+- [S2U Comms Talks](https://matrix.to/#/#s2u-commstalk:matrix.org) - `#s2u-commstalk:matrix.org`
+- [S2U General](https://matrix.to/#/#s2underground:matrix.org) - `#s2underground:matrix.org`
+- [Veilid](https://matrix.to/#/#veilid:matrix.org) - `#veilid:matrix.org`
 
 ---
-## **Knowledge and Wisdom**
+## **Cypherpunk Resources**
 
 ### **Start Here**
-- [Mark Passio: Natural Law Seminar](https://yewtu.be/watch?v=lWwQCvg1W7w)
-- [The End of All Evil - Jeremy Locke](https://annas-archive.org/md5/472bb40f21a8e0fc1b3809f2f645ec59)
+- [Crypto Agorism: Free Markets for a Free World](https://web.archive.org/web/20221031020520/https://agorism.blog/anarkio/crypto-agorism) - how cryptocurrencies are a tool to achieve economic freedom by bypassing traditional financial and state controlled systems
+- [Mark Passio: Natural Law Seminar](https://yewtu.be/watch?v=lWwQCvg1W7w) - the real law of attraction and how to apply it in your life
+- [The End of All Evil - Jeremy Locke](https://annas-archive.org/md5/472bb40f21a8e0fc1b3809f2f645ec59) - how to dismantle false beliefs in authority as a means to achieve true freedom and prosperity
+- [Statism: The Most Dangerous Religion](https://yewtu.be/watch?v=QKfT5zv9WRs) - critically examines the belief in state authority as a form of religious faith and indoctrination
+- [Second Realm: Book on Strategy](https://ia801807.us.archive.org/34/items/second-realm-digital/Second%20Realm%20Paperback%20New.pdf) - a book on how to establish second realms or autonomous zones
 
 ### **Agorism**
-
-- [An Agorist Primer](https://kopubco.com/pdf/An_Agorist_Primer_by_SEK3.pdf)
-- [An Argument Against KYC Bitcoin](https://archive.org/details/an-argument-against-kyc-bitcoin)
-- [​KYC-Free Bitcoin Circular Economies: Free The Markets, Free The World](https://bitcoinmagazine.com/business/kyc-free-bitcoin-circular-economies)
-- [It’s Time To Join The Bitcoin Circular Economy](https://bitcoinmagazine.com/business/its-time-to-join-the-bitcoin-circular-economy)
-- [How Monero Uniquely Enables Circular Economies](https://localmonero.co/knowledge/monero-circular-economies)
-- [KYC-free Bitcoin Circular Economies](https://bitcoinmagazine.com/business/kyc-free-bitcoin-circular-economies)
-- [Building a circular economy with Monero](https://monerochan.news/article/4)
-- [Agorist Journal](https://agorist.xyz/)
-- [Agorist Class Theory](https://agorism.eu.org/docs/AgoristClassTheory.pdf)
-- [New Libertarian Manifesto](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-new-libertarian-manifesto)
-- [The Last, Whole Introduction to Agorism ](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-the-last-whole-introduction-to-agorism)
+- [Agorist Class Theory](https://agorism.eu.org/docs/AgoristClassTheory.pdf) - a left libertarian approach to class conflict analysis
+- [Agorist Journal](https://agorist.xyz/) - AXXI amplifies dissonance and brings voices together from across the political spectrum. It is also a call for unity. AXXI resurrects the unifying vision of an agorist alliance beyond the surveillance state
+- [An Agorist Primer](https://kopubco.com/pdf/An_Agorist_Primer_by_SEK3.pdf) - a comprehensive guidebook that explores the principles and practical aspects of agorism, a strategy for achieving a stateless society through peaceful market activities
+- [An Argument Against KYC Bitcoin](https://archive.org/details/an-argument-against-kyc-bitcoin) - presents a compelling case against the use of Know Your Customer (KYC) requirements in the Bitcoin ecosystem, discussing how it creates honeypots of user information and gives rise to a permissioned social system
+- [Building a circular economy with Monero](https://web.archive.org/web/20221129052807/https://monerochan.news/article/4) - the future belongs to digital marketplaces that run on private digital cash. Anarkio explains why he built Bitejo and why he is into Monero
+- [How Monero Uniquely Enables Circular Economies](https://localmonero.co/knowledge/monero-circular-economies) - explores how Monero, a privacy-focused cryptocurrency, has distinct characteristics that make it particularly well-suited for enabling circular economies
+- [It’s Time To Join The Bitcoin Circular Economy](https://bitcoinmagazine.com/business/its-time-to-join-the-bitcoin-circular-economy) - free men don’t ask permission to transact with each other and don’t rely on the legacy third-party financial institutions that operate in tandem with State authorities
+- [KYC-free Bitcoin Circular Economies](https://bitcoinmagazine.com/business/kyc-free-bitcoin-circular-economies) - KYC-free bitcoin circular economies are perhaps the most pure free markets in the world, enabled by the first truly free sound money
+- [New Libertarian Manifesto](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-new-libertarian-manifesto) - a concise and influential guide outlining the principles of agorism, a libertarian philosophy advocating for the practice of counter-economics
+- [The Last, Whole Introduction to Agorism](https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-the-last-whole-introduction-to-agorism) - Agorism, unfortunately, needs an introduction...
 
 ### **Crypto Anarchy**
-- [Second Realm: Book on Strategy](https://ia801807.us.archive.org/34/items/second-realm-digital/Second%20Realm%20Paperback%20New.pdf)
-- [Fifty things to do NOW](https://libertyunderattack.com/fifty-things-now-free-unashamed)
-- [Second Realm Ideas](https://web.archive.org/web/20230603145240/https://agorism.blog/anarkio/second-realm-ideas)
-- [50+ libertarian, agorist and anarchist ebooks (SEK3, Mises, Rothbard & more)](https://flote.app/post/f30255c4-392a-4360-a02c-e4b0e6cee410)
-- [Why cryptoanarchy is not a revolutionary movement](https://web.archive.org/web/20210301162217/https://fragment-x6.net/posts/why-cryptoanarchy-is-not-a-revolutionary-movement/)
-- [The Vision of Cryptoanarchy](https://yewtu.be/watch?v=TQmBoicjPXo)
-- [The Aristocracy of Action](https://darknet.org/hosted/files/aoa.txt)
-- [Roadblocks to obtaining government-issued ID](https://web.archive.org/web/20230321231712/https://agorism.blog/anarkio/roadblocks-to-obtaining-government-id)
-- [True Names Not Required: On Identity and Pseudonymity in Cyberspace](https://dergigi.medium.com/true-names-not-required-fc6647dfe24a)
-- [How to survive outside of the state with Crypto Agorism](https://web.archive.org/web/20230321231929/https://agorism.blog/anarkio/survival-outside-the-state)
-- [Why the state’s monopoly on identity is more dangerous than Google, Facebook and Microsoft](https://web.archive.org/web/20230603135922/https://agorism.blog/anarkio/why-the-states-monopoly-on-identity-is-more-dangerous-than-google-facebook)
-- [How to buy, earn and spend KYC-free Bitcoin and Monero (without ID or a bank account)](https://agorism.blog/anarkio/buy-earn-and-spend-bitcoin-and-monero)
-- [KYC Will Not Protect Us, Bitcoin And Encryption Will](https://bitcoinmagazine.com/culture/bitcoin-will-protect-your-personal-data)
-- [The rarely discussed dangers of KYC and what you can do about it](https://web.archive.org/web/20230603150549/https://agorism.blog/anarkio/the-rarely-discussed-dangers-of-kyc-and-what-you-can-do-about-it)
-- [Why Twitter’s KYC’ed Bitcoin tips are dangerous and what KYC-free alternatives you can use](https://web.archive.org/web/20230603143302/https://agorism.blog/anarkio/dangers-of-kyc-tips)
-- [The dangers of “decentralized” ID systems](https://web.archive.org/web/20230321235957/https://agorism.blog/anarkio/dangers-of-decentralized-id-systems)
+- [Fifty things to do NOW](https://libertyunderattack.com/fifty-things-now-free-unashamed) - the following is a highly valuable list of 50 things to do NOW, taken from the terrific crypto-agorist website, Anarplex. Find out what YOU can do RIGHT NOW to help build the Second Realm/counter-economy/vonu minicultures
+- [How to buy, earn and spend KYC-free Bitcoin and Monero (without ID or a bank account)](https://web.archive.org/web/20221018015844/https://agorism.blog/anarkio/buy-earn-and-spend-bitcoin-and-monero) - discover methods for purchasing, acquiring, and using Bitcoin and Monero without the need for KYC (Know Your Customer) verification
+- [How to survive outside of the state with Crypto Agorism](https://web.archive.org/web/20230321231929/https://agorism.blog/anarkio/survival-outside-the-state) - fair and free markets for food, jobs, housing, healthcare, mail, sim cards & more – no government ID or state permit required
+- [KYC Will Not Protect Us, Bitcoin And Encryption Will](https://bitcoinmagazine.com/culture/bitcoin-will-protect-your-personal-data) - as regulators attempt to institute KYC and AML rules at the peril of our personal data, Bitcoin and encryption offer salvation.
+- [Roadblocks to obtaining government-issued ID](https://web.archive.org/web/20230321231712/https://agorism.blog/anarkio/roadblocks-to-obtaining-government-id) - state's ID monopoly and KYC regulations stop millions from accessing necessities like finances, jobs, healthcare, and more. No alternative methods or appeal processes exist if the state refuses to issue an ID. This exclusionary system prevents individuals, regardless of skills or efforts, from entering and regularizing their situation as adults
+- [Second Realm Ideas](https://web.archive.org/web/20230603145240/https://agorism.blog/anarkio/second-realm-ideas) - a collection of Second Realm ideas (KYC-free agorist services)
+- [The Aristocracy of Action](https://darknet.org/hosted/files/aoa.txt) - what it will take to build a cypherpunk breakaway society
+- [The dangers of “decentralized” ID systems](https://web.archive.org/web/20230321235957/https://agorism.blog/anarkio/dangers-of-decentralized-id-systems) - many of these protocols rely on government ID as a base layer (as proof of name, age or address, referred to as “Verifiable credentials”). In this system, users are required to upload a video with their passport or national ID card. After this, their name, age or address is marked as verified. This reliance on government IDs means that DIDs cannot protect users against state surveillance
+- [The rarely discussed dangers of KYC and what you can do about it](https://web.archive.org/web/20230603150549/https://agorism.blog/anarkio/the-rarely-discussed-dangers-of-kyc-and-what-you-can-do-about-it) - many people don't talk about it but unfortunately it's everywhere. Without KYC documents, opportunities to freely participate in the economy and even survive are limited. KYC is required for jobs, housing, healthcare and more. In addition, many people can't complete KYC, as they don't have any government-issued IDs and therefore must rely on the gray market to have access to necessities such as finding work, apartments and medicine. This text clarifies the rarely discussed reasons why KYC is harmful and what can be done about it.
+- [The Vision of Cryptoanarchy](https://yewtu.be/watch?v=TQmBoicjPXo) - Talk given at "The Web of Phronesis" in 2020, a conference by the Institute of Network Society, China Academy of Art.
+- [True Names Not Required: On Identity and Pseudonymity in Cyberspace](https://www.citadel21.com/true-names-not-required) - the cypherpunks recognized that a free society can not function if identity is rigid and known to all. A free society requires the option to selectively reveal yourself to the world, or not reveal yourself at all
+- [Why cryptoanarchy is not a revolutionary movement](https://web.archive.org/web/20210301162217/https://fragment-x6.net/posts/why-cryptoanarchy-is-not-a-revolutionary-movement/) - an interview describing how cryptoanarchy is about building parallel systems on top of existing power structures
+- [Why the state’s monopoly on identity is more dangerous than Google, Facebook and Microsoft](https://web.archive.org/web/20230603135922/https://agorism.blog/anarkio/why-the-states-monopoly-on-identity-is-more-dangerous-than-google-facebook) - while the tracking by Google, Facebook and Microsoft is definitely disturbing and can even put people in danger, the state’s data economy is even worse. Many people don’t talk about this, even though it affects millions of people’s daily lives
  
 ### **Manifestos**
-- [The GNU Manifesto (1985)](https://git.hackliberty.org/Philosophy/1985-GNU-Manifesto)
-- [The Hacker's Manifesto (1986)](https://git.hackliberty.org/Philosophy/1986-The-Hackers-Manifesto)
-- [The Crypto Anarchist Manifesto (1988)](https://git.hackliberty.org/Philosophy/1988-The-Crypto-Anarchist-Manifesto)
-- [A Cypherpunks Manifesto (1993)](https://git.hackliberty.org/Philosophy/1993-A-Cypherpunks-Manifesto)
-- [Crypto Anarchy and Virtual Communities (1994)](https://git.hackliberty.org/Philosophy/1994-Crypto-Anarchy-and-Virtual-Communities)
-- [The Cyphernomicon (1994)](https://git.hackliberty.org/Philosophy/1994-The-Cyphernomicon)
-- [A Declaration of the Independence of Cyberspace (1996)](https://git.hackliberty.org/Philosophy/1996-A-Declaration-of-the-Independence-of-Cyberspace)
-- [A Cyberpunk Manifesto (1997)](https://git.hackliberty.org/Philosophy/1997-A-Cyberpunk-Manifesto)
-- [b-money (1998)](https://git.hackliberty.org/Philosophy/1998-b-money)
-- [Bit-gold (2005)](https://git.hackliberty.org/Philosophy/2005-Bit-gold)
-- [State and Terrorist Conspiracies and Conspiracy as Governance (2006)](https://git.hackliberty.org/Philosophy/2006-State-and-Terrorist-Conspiracies-and-Conspiracy-as-Governance)
-- [Guerilla Open Access Manifesto (2008)](https://git.hackliberty.org/Philosophy/2008-Guerilla-Open-Access-Manifesto)
-- [The libbitcoin Manifesto (2013)](https://git.hackliberty.org/Philosophy/2013-The-libbitcoin-Manifesto)
+- [The GNU Manifesto (1985)](https://git.hackliberty.org/Philosophy/1985-GNU-Manifesto) - document written by Richard Stallman, outlining the goals and principles of the GNU Project, which aimed to develop a free and open-source operating system
+- [The Hacker's Manifesto (1986)](https://git.hackliberty.org/Philosophy/1986-The-Hackers-Manifesto) - a declaration expressing the hacker culture's belief in the freedom of information and opposition to restrictions on computer use
+- [The Crypto Anarchist Manifesto (1988)](https://git.hackliberty.org/Philosophy/1988-The-Crypto-Anarchist-Manifesto) - advocates for the widespread use of cryptography and anonymous digital currency to uphold privacy and undermine government control
+- [A Cypherpunks Manifesto (1993)](https://git.hackliberty.org/Philosophy/1993-A-Cypherpunks-Manifesto) - emphasizes the importance of cryptography as a tool for political and social change, promoting privacy, anonymity, and individual freedom
+- [Crypto Anarchy and Virtual Communities (1994)](https://git.hackliberty.org/Philosophy/1994-Crypto-Anarchy-and-Virtual-Communities) - explores the concept of crypto anarchy where technology facilitates individuals to operate beyond traditional societal boundaries using encryption and virtual communities
+- [The Cyphernomicon (1994)](https://git.hackliberty.org/Philosophy/1994-The-Cyphernomicon) - a guidebook outlining the principles of cypherpunks, focusing on the role of cryptography in protecting privacy and empowering individuals against surveillance
+- [A Declaration of the Independence of Cyberspace (1996)](https://git.hackliberty.org/Philosophy/1996-A-Declaration-of-the-Independence-of-Cyberspace) - asserts the autonomy of the online world from governments and urges policymakers to stay out of cyberspace regulation
+- [A Cyberpunk Manifesto (1997)](https://git.hackliberty.org/Philosophy/1997-A-Cyberpunk-Manifesto) - articulates the ethos of the cyberpunk subculture, highlighting dystopian themes, the merging of humans with technology, and resistance against authority
+- [b-money (1998)](https://git.hackliberty.org/Philosophy/1998-b-money) - proposed a digital currency system that utilized cryptographic proofs instead of centralized authorities to achieve secure and decentralized transactions
+- [Bit-gold (2005)](https://git.hackliberty.org/Philosophy/2005-Bit-gold) - describes a decentralized digital currency system, based on proof of work and cryptography, that influenced the development of Bitcoin
+- [State and Terrorist Conspiracies and Conspiracy as Governance (2006)](https://git.hackliberty.org/Philosophy/2006-State-and-Terrorist-Conspiracies-and-Conspiracy-as-Governance) -  sheds light on the power dynamics between conspiratorial governance and the whistleblowers
+- [Guerilla Open Access Manifesto (2008)](https://git.hackliberty.org/Philosophy/2008-Guerilla-Open-Access-Manifesto) - advocates for open access to academic knowledge and criticizes the current publishing system, calling for civil disobedience to achieve a free and open flow of information
+- [The libbitcoin Manifesto (2013)](https://git.hackliberty.org/Philosophy/2013-The-libbitcoin-Manifesto) - outlines the principles and goals behind the libbitcoin project, emphasizing a focus on privacy, security, decentralization, and empowering individuals in their control over digital assets
+
+### **Podcasts**
+- [Agora Podcast](https://anchor.fm/mortified-penguin) - your home for agorism, localism, radical decentralization, and anti-authoritarian concepts
+- [Bit Buy Bit](https://ungovernablemisfits.com) - a podcast for ungovernable misfits who choose Bitcoin, opensource software, privacy and freedom
+- [Citadel Dispatch](https://citadeldispatch.com) - an interactive live show about bitcoin and freedom tech. Dispatch is audience funded without ads or paywalls. Live unedited shows with direct audience participation via youtube, twitch, and our matrix chats.
+- [Cypherpunk Bitstream](https://taz0.org/bitstream) - A cypherpunk and cryptoanarchy focused podcast
+- [Monero Talk](https://yewtu.be/c/monerotalk) - weekly conversations with topical guests to understand what the Monero cryptocurrency is today and what it hopes to become
+- [Opt Out](https://www.optoutpod.com) - a podcast that interviews individuals who are passionate about privacy, explores their reasons for valuing privacy, discusses the tools and techniques they use, and aims to inspire others to prioritize personal privacy and data control
+- [Truth for the Commoner](https://tftc.io) - your gateway to a world of truth, knowledge, and empowerment in the digital age. We are dedicated to bringing you content that spans the realms of bitcoin, economics, privacy, freedom technology, and culture
+- [Vonu Podcast](https://vonupodcast.com) - the podcast making you invulnerable to the coercion of the State and the servile society
+
+### **Projects & Organizations**
+- [Annas-Archive.org](https://annas-archive.org/) - The world’s largest open-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, and more. 22,052,322 books, 97,847,390 papers, 2,451,032 comics, 673,013 magazines — preserved forever.
+- [AnonymousLand.org](https://www.anonymousland.org) - a community dedicated to providing anonymity enhancing guides and services
+- [AnonymousPlanet.org](https://anonymousplanet.org/) - a community contributed online guide to anonymity written for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed, censored, harassed anywhere
+- [Electronic Frontier Foundation](https://www.eff.org) - the leading nonprofit organization defending civil liberties in the digital world. Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. EFF's mission is to ensure that technology supports freedom, justice, and innovation for all people of the world.
+- [PrivacyGuides.org](https://www.privacyguides.org/) - a non-profit, socially motivated website that provides information for protecting your data security and privacy
+- [Tor Project](https://www.torproject.org/) - fights every day for everyone to have private access to an uncensored internet, and Tor has become the world's strongest tool for privacy and freedom online
+- [Veilid](https://veilid.com/) - framework that allows anyone to build a distributed, private app. Veilid gives users the privacy to opt out of data collection and online tracking. Veilid is being built with user experience, privacy, and safety as our top priorities. It is open source and available to everyone to use and build upon
 
 ---
 ## **Cryptocurrency Resources**
@@ -275,7 +297,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [AnonymousLand.org](https://www.anonymousland.org) - a community dedicated to providing anonymity enhancing guides and services
 - [Into the Crypt](https://0xacab.org/optout/into-the-crypt) - the art of anti-forensics
 - [Advanced Privacy and Anonymity Using VMs, VPN’s, Tor](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-1/) - a series of guides that explains how to obtain vastly greater freedom, privacy and anonymity through compartmentalization and isolation through nested chains of VPNs and Tor
-- [How to create anonymous Telegram and Signal accounts without a phone](https://agorism.blog/anarkio/anonymous-telegram-account) - a guide for using Whonix & Anbox to create anonymous mobile accounts without a phone
+- [How to create anonymous Telegram and Signal accounts without a phone](https://web.archive.org/web/20230603151721/https://agorism.blog/anarkio/anonymous-telegram-account) - a guide for using Whonix & Anbox to create anonymous mobile accounts without a phone
 
 ### **Android**
 - [A brief and informal analysis of F-Droid security](https://wonderfall.dev/fdroid-issues/) - a write-up emphasizing major security issues with F-Droid
