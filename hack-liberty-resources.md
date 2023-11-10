@@ -297,12 +297,23 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [AnonymousLand.org](https://www.anonymousland.org) - a community dedicated to providing anonymity enhancing guides and services
 - [Into the Crypt](https://0xacab.org/optout/into-the-crypt) - the art of anti-forensics
 - [Advanced Privacy and Anonymity Using VMs, VPN’s, Tor](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-1/) - a series of guides that explains how to obtain vastly greater freedom, privacy and anonymity through compartmentalization and isolation through nested chains of VPNs and Tor
-- [How to create anonymous Telegram and Signal accounts without a phone](https://web.archive.org/web/20230603151721/https://agorism.blog/anarkio/anonymous-telegram-account) - a guide for using Whonix & Anbox to create anonymous mobile accounts without a phone
 
 ### **Android**
 - [A brief and informal analysis of F-Droid security](https://wonderfall.dev/fdroid-issues/) - a write-up emphasizing major security issues with F-Droid
 - [Android Tips](https://privsec.dev/os/android-tips/) - list of tips for buying and using Android phones
 - [Android](https://madaidans-insecurities.github.io/android.html) - common ways in which people worsen the security model of android
+
+### **Secure Messengers**
+- [How to create anonymous Telegram and Signal accounts without a phone](https://web.archive.org/web/20230603151721/https://agorism.blog/anarkio/anonymous-telegram-account) - a guide for using Whonix & Anbox to create anonymous mobile accounts without a phone
+- [Arguments against Signal (2019)](https://web.archive.org/web/20230708054922/https://github.com/privacytools/privacytools.io/issues/779) - arguments against the popular secure messenger Signal
+- [A security analysis comparison between Signal, WhatsApp and Telegram [PDF]](https://eprint.iacr.org/2023/071.pdf) - a security analysis comparison between the three popular instant messaging apps. The analysis will focus on the encryption protocols used by each app and the security features they offer
+- [Wire (and Signal) use privacy-hostile Amazon AWS](https://web.archive.org/web/20221006232343/https://github.com/wireapp/wire/issues/265) - Wire (and Signal) are centralized on Amazon's AWS... there are substantial privacy and ethical issues with this
+- [XMPP: An Under-appreciated Attack Surface](https://bishopfox.com/blog/xmpp-underappreciated-attack-surface) - a demonstration for why XMPP is of interest to penetration testers, security researchers, and defenders
+- [Wiretapping the largest Russian XMPP server](https://notes.valdikss.org.ru/jabber.ru-mitm/) - XMPP (Jabber) instant messaging protocol encrypted TLS connection wiretapping (Man-in-the-Middle attack) of jabber[.]ru (aka xmpp[.]ru) service’s servers on Hetzner and Linode hosting providers in Germany
+- [XMPP: Admin-in-the-middle](https://web.archive.org/web/20211215132539/https://infosec-handbook.eu/articles/xmpp-aitm/) - In our opinion, you can’t refer to XMPP-based messaging as “privacy-friendly” as long as you don’t control all XMPP servers. An XMPP administrator (or any other server-side party) can inject arbitrary messages, modify address books, and log passwords in cleartext
+- [What a malicious Matrix homeserver admin can do](https://blog.erethon.com/blog/2022/07/13/what-a-malicious-matrix-homeserver-admin-can-do/) - potential passive and active attacks from malicious homeserver admins
+- [Matrix? No, thanks.](https://hackea.org/notas/matrix.html) - Matrix keeps growing. Even the French government decided to use it. However, many Free Software activists refuse to use it
+- [Session's Lack of Perfect Forward Security](https://github.com/oxen-io/session-desktop/issues/2338) - "We don't have any current plans to reintroduce PFS"
 
 ### **Desktop**
 - [Desktop Linux Hardening](https://privsec.dev/os/desktop-linux-hardening/) - a guide that intermediate to advanced Linux users can reasonably follow to set up and maintain hardened  security configurations
@@ -320,6 +331,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [You want Tor Browser … not a VPN](https://matt.traudt.xyz/posts/2019-10-17-you-want-tor-browser-not-a-vpn/) - use case comparisons betwen Tor and VPN use
 - [IPVanish “No-Logging” VPN Led Homeland Security to Comcast User](https://torrentfreak.com/ipvanish-no-logging-vpn-led-homeland-security-to-comcast-user-180505/) - an article detailing the time IPVanish doxed a customer to Homeland Security
 - [Is Tor Trustworthy and Safe?](https://restoreprivacy.com/tor/) - an article detailing considerations and cons when using Tor
+
 ### **General**
 - [Security and Privacy Advice](https://madaidans-insecurities.github.io/security-privacy-advice.html) - security and privacy advice for desktop, mobile, browser, messengers, email, passwords, 2FA, and social media.
 - [Despite DoH and ESNI, with OCSP, web activity is insecure and not private](https://blog.seanmcelroy.com/2019/01/05/ocsp-web-activity-is-not-private/) - how OCSP responses are a privacy nightmare
