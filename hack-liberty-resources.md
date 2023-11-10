@@ -27,14 +27,14 @@ We are a group of cypherpunks, privacy advocates, engineers, and philosophers de
 
 All our services use open source software and are open to the public. We **[anonymize logs](https://www.supertechcrew.com/anonymizing-logs-nginx-apache/)** and use **[full disk encryption](https://gitlab.com/cryptsetup/cryptsetup)** to preserve user privacy. Our hosting provider **[1984](http://1984.hosting/)** is located in **[Iceland](https://ctemplar.com/icelandic-privacy-laws/)** and supports human rights and free speech. Our **[Matrix Server](https://matrix.org/)** uses a **[hardened memory allocator](https://github.com/GrapheneOS/hardened_malloc)** and we use **[Alpine Linux](https://wiki.alpinelinux.org/wiki/Alpine_Linux:Overview)** whenever possible.
 
-- [Matrix](https://hackliberty.org/register) - an open protocol for real-time, distributed communications with strong end-to-end encryption, user verification, and other cryptographic protection mechanisms. **[Register Here](https://hackliberty.org/register)** 
+- [Matrix](https://hackliberty.org/register)  [[Tor](http://54ct5xaioq64ejuxfpyuxyuati4aplp2dlebr3t5ug7ck62i5tsaiuid.onion/register)] - an open protocol for real-time, distributed communications with strong end-to-end encryption, user verification, and other cryptographic protection mechanisms. **[Register Here](https://hackliberty.org/register)** 
 - [Element](https://element.hackliberty.org) - a glossy Matrix client for the web built on top of matrix-react-sdk with an emphasis on performance and usability
 - [SchildiChat](https://chat.hackliberty.org) - a Matrix client for the web based on Element with a more traditional instant messaging experience
 - [Lemmy](https://links.hackliberty.org) - a link aggregator and forum for the fediverse
-- [Gitea](https://git.hackliberty.org) - a painless self-hosted Git service
+- [Gitea](https://git.hackliberty.org) [[Tor](http://vkp7367tcjpqdwwckigrdrvmwvispvbpg5rlsr2chjxvppfg7hipagyd.onion/)]- a painless self-hosted Git service
 - [Bookstack](https://docs.hackliberty.org) - an opinionated wiki system that provides a pleasant and simple out-of-the-box experience 
-- [PrivateBin](https://paste.hackliberty.org)- a minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256bit AES in Galois Counter mode
-- [OTS](https://ots.hackliberty.org) -  One-Time-Secret sharing platform with symmetric 256bit AES encryption in the browser
+- [PrivateBin](https://paste.hackliberty.org) [[Tor](http://z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion/)]- a minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256bit AES in Galois Counter mode
+- [OTS](https://ots.hackliberty.org) [[Tor](http://5bi7xhmcmji4gfuok5z4j4bgmif2cryuf6was6c7275i3wwfvoolbryd.onion/)]-  One-Time-Secret sharing platform with symmetric 256bit AES encryption in the browser
 - [Blog](https://blog.hackliberty.org) - a blog for long form content and guides
 ---
 
@@ -131,27 +131,6 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Tyranny](https://links.hackliberty.org/c/tyranny) - `https://links.hackliberty.org/c/tyranny`
 - [Warriorship](https://links.hackliberty.org/c/warriorship) - `https://links.hackliberty.org/c/warriorship`
 
-
-
-
-
----
-## **Recommended Matrix Rooms**
-
-- [Anonymity](https://matrix.to/#/#anonymity:matrix.anonymousplanet.org) - `#anonymity:matrix.anonymousplanet.org`
-- [Citadel Chat](https://matrix.to/#/#citadeldispatch:bitcoin.kyoto) - `#citadeldispatch:bitcoin.kyoto`
-- [GrapheneOS](https://matrix.to/#/#grapheneos:grapheneos.org) - `#grapheneos:grapheneos.org`
-- [GrapheneOS Off Topic](https://matrix.to/#/#offtopic:grapheneos.org) - `#offtopic:grapheneos.org`
-- [Invidious](https://matrix.to/#/#invidious:matrix.org) - `#invidious:matrix.org`
-- [MoneroTopia](https://matrix.to/#/#monerotopia:monero.social) - `#monerotopia:monero.social`
-- [Privacy Guides Main](https://matrix.to/#/#main:privacyguides.org) - `#main:privacyguides.org`
-- [Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org) - `#cybersec-qubes_os:matrix.org`
-- [Qubes-Public](https://matrix.to/#/#qubes:invisiblethingslab.com) - `#qubes:invisiblethingslab.com`
-- [Opt Out Podcast](https://matrix.to/#/#optout-general:matrix.optoutpod.com) - `#optout-general:matrix.optoutpod.com`
-- [S2U Comms Talks](https://matrix.to/#/#s2u-commstalk:matrix.org) - `#s2u-commstalk:matrix.org`
-- [S2U General](https://matrix.to/#/#s2underground:matrix.org) - `#s2underground:matrix.org`
-- [Veilid](https://matrix.to/#/#veilid:matrix.org) - `#veilid:matrix.org`
-
 ---
 ## **Cypherpunk Resources**
 
@@ -164,7 +143,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 
 ### **Agorism**
 - [Agorist Class Theory](https://agorism.eu.org/docs/AgoristClassTheory.pdf) - a left libertarian approach to class conflict analysis
-- [Agorist Journal](https://agorist.xyz/) - AXXI amplifies dissonance and brings voices together from across the political spectrum. It is also a call for unity. AXXI resurrects the unifying vision of an agorist alliance beyond the surveillance state
+- [Agorist Journal](https://agorist.xyz/) - axxi amplifies dissonance and brings voices together from across the political spectrum. it is also a call for unity. axxi resurrects the unifying vision of an agorist alliance beyond the surveillance state
 - [An Agorist Primer](https://kopubco.com/pdf/An_Agorist_Primer_by_SEK3.pdf) - a comprehensive guidebook that explores the principles and practical aspects of agorism, a strategy for achieving a stateless society through peaceful market activities
 - [An Argument Against KYC Bitcoin](https://archive.org/details/an-argument-against-kyc-bitcoin) - presents a compelling case against the use of Know Your Customer (KYC) requirements in the Bitcoin ecosystem, discussing how it creates honeypots of user information and gives rise to a permissioned social system
 - [Building a circular economy with Monero](https://web.archive.org/web/20221129052807/https://monerochan.news/article/4) - the future belongs to digital marketplaces that run on private digital cash. Anarkio explains why he built Bitejo and why he is into Monero
@@ -184,7 +163,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [The Aristocracy of Action](https://darknet.org/hosted/files/aoa.txt) - what it will take to build a cypherpunk breakaway society
 - [The dangers of “decentralized” ID systems](https://web.archive.org/web/20230321235957/https://agorism.blog/anarkio/dangers-of-decentralized-id-systems) - many of these protocols rely on government ID as a base layer (as proof of name, age or address, referred to as “Verifiable credentials”). In this system, users are required to upload a video with their passport or national ID card. After this, their name, age or address is marked as verified. This reliance on government IDs means that DIDs cannot protect users against state surveillance
 - [The rarely discussed dangers of KYC and what you can do about it](https://web.archive.org/web/20230603150549/https://agorism.blog/anarkio/the-rarely-discussed-dangers-of-kyc-and-what-you-can-do-about-it) - many people don't talk about it but unfortunately it's everywhere. Without KYC documents, opportunities to freely participate in the economy and even survive are limited. KYC is required for jobs, housing, healthcare and more. In addition, many people can't complete KYC, as they don't have any government-issued IDs and therefore must rely on the gray market to have access to necessities such as finding work, apartments and medicine. This text clarifies the rarely discussed reasons why KYC is harmful and what can be done about it.
-- [The Vision of Cryptoanarchy](https://yewtu.be/watch?v=TQmBoicjPXo) - Talk given at "The Web of Phronesis" in 2020, a conference by the Institute of Network Society, China Academy of Art.
+- [The Vision of Cryptoanarchy](https://yewtu.be/watch?v=TQmBoicjPXo) - talk given at "the web of phronesis" in 2020, a conference by the institute of network society, china academy of art.
 - [True Names Not Required: On Identity and Pseudonymity in Cyberspace](https://www.citadel21.com/true-names-not-required) - the cypherpunks recognized that a free society can not function if identity is rigid and known to all. A free society requires the option to selectively reveal yourself to the world, or not reveal yourself at all
 - [Why cryptoanarchy is not a revolutionary movement](https://web.archive.org/web/20210301162217/https://fragment-x6.net/posts/why-cryptoanarchy-is-not-a-revolutionary-movement/) - an interview describing how cryptoanarchy is about building parallel systems on top of existing power structures
 - [Why the state’s monopoly on identity is more dangerous than Google, Facebook and Microsoft](https://web.archive.org/web/20230603135922/https://agorism.blog/anarkio/why-the-states-monopoly-on-identity-is-more-dangerous-than-google-facebook) - while the tracking by Google, Facebook and Microsoft is definitely disturbing and can even put people in danger, the state’s data economy is even worse. Many people don’t talk about this, even though it affects millions of people’s daily lives
@@ -215,11 +194,12 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Vonu Podcast](https://vonupodcast.com) - the podcast making you invulnerable to the coercion of the State and the servile society
 
 ### **Projects & Organizations**
-- [Annas-Archive.org](https://annas-archive.org/) - The world’s largest open-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, and more. 22,052,322 books, 97,847,390 papers, 2,451,032 comics, 673,013 magazines — preserved forever.
-- [AnonymousLand.org](https://www.anonymousland.org) - a community dedicated to providing anonymity enhancing guides and services
-- [AnonymousPlanet.org](https://anonymousplanet.org/) - a community contributed online guide to anonymity written for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed, censored, harassed anywhere
+- [Annas Archive](https://annas-archive.org/) - the world’s largest open-source open-data library. mirrors sci-hub, library genesis, z-library, and more. 22,052,322 books, 97,847,390 papers, 2,451,032 comics, 673,013 magazines — preserved forever.
+- [AnarSec](https://www.anarsec.guide/) - tech guides for anarchists
+- [Anonymous Land](https://www.anonymousland.org) - a community dedicated to providing anonymity enhancing guides and services
+- [Anonymous Planet](https://anonymousplanet.org/) - a community contributed online guide to anonymity written for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed, censored, harassed anywhere
 - [Electronic Frontier Foundation](https://www.eff.org) - the leading nonprofit organization defending civil liberties in the digital world. Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. EFF's mission is to ensure that technology supports freedom, justice, and innovation for all people of the world.
-- [PrivacyGuides.org](https://www.privacyguides.org/) - a non-profit, socially motivated website that provides information for protecting your data security and privacy
+- [Privacy Guides](https://www.privacyguides.org/) - a non-profit, socially motivated website that provides information for protecting your data security and privacy
 - [Tor Project](https://www.torproject.org/) - fights every day for everyone to have private access to an uncensored internet, and Tor has become the world's strongest tool for privacy and freedom online
 - [Veilid](https://veilid.com/) - framework that allows anyone to build a distributed, private app. Veilid gives users the privacy to opt out of data collection and online tracking. Veilid is being built with user experience, privacy, and safety as our top priorities. It is open source and available to everyone to use and build upon
 
@@ -234,11 +214,11 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [How to accept non-KYC bitcoin with BTCPay Jungle and Electrum](https://archive.org/details/how-to-accept-non-kyc-bitcoin-with-btcpay-jungle-and-electrum) - how to start receiving non-KYC bitcoin payments in exchange for online goods and services
 
 ### **Crypto Services Directories**
-- [KYCNOT.ME](https://kycnot.me/)- directory for No-KYC exchanges and services
-- [AcceptedHere](https://acceptedhere.io/)- directory for online and offline businesses accepting cryptocurrency
+- [KYCNOT.ME](https://kycnot.me/) [[Tor](http://kycnotmezdiftahfmc34pqbpicxlnx3jbf5p7jypge7gdvduu7i6qjqd.onion/)] - directory for No-KYC exchanges and services
+- [Monerica](https://monerica.com/)- exhaustive list of Monero and related resources
+- [AcceptedHere](https://web.archive.org/web/20230326144715/https://acceptedhere.io/catalog/company/)- directory for online and offline businesses accepting cryptocurrency
 - [CryptWerk](https://cryptwerk.com/) - directory with companies, websites, shops, services that accept crypto
 - [Bitcoin Bookmarks](https://bitcoinbookmarks.com/)-directory for premium crypto websites sorted by quality
-- [Monerica](https://monerica.com/)- directory for the Monero circular economy
 - [Lightning Network Stores](https://lightningnetworkstores.com/) - directory for stores that accept bitcoin through the lightning network
 
 ### **Automated Exchanges**
@@ -259,11 +239,11 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 
 ### **Crypto VPS & Domain Services**
 - [1984](https://1984.hosting) - high quality web hosting and VPS service provider that respects and protects the civil and political rights of customers
-- [Incognet](https://incognet.io) - privacy respecting web host and VPS provider
-- [Njalla](https://njal.la/) - anonymous domain name registrar and VPS provider 
+- [Incognet](https://incognet.io) [[Tor](http://incoghostm2dytlqdiaj3lmtn7x2l5gb76jhabb6ywbqhjfzcoqq6aad.onion/)] - privacy respecting web host and VPS provider
+- [Njalla](https://njal.la/) [[Tor](https://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/)] - anonymous domain name registrar and VPS provider 
 
 ### **Crypto VPN Services**
--  [Mullvad VPN](https://mullvad.net/) - a Sweden-based VPN provider with a long-standing reputation for privacy and efficiency
+-  [Mullvad](https://mullvad.net/) [[Tor](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/)] - a Sweden-based VPN provider with a long-standing reputation for privacy and efficiency
 - [IVPN](https://www.ivpn.net/) - a Gibraltar-registered service that has been preserving customers privacy since 2009
 
 ### **Crypto Credit Cards**
@@ -277,26 +257,41 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Cake Pay](https://cakepay.com/) - buy gift cards and related products with virtual assets for use at millions of merchants worldwide
 
 ### **Crypto eSim Providers**
-- [SilentLink](https://silent.link/) - a global mobile and phone number provider for  eSIM-compatible smartphones
-- [AnonCards](https://anoncards.io/) - buy SIM, ESIM and gift cards with Monero
+- [SilentLink](https://silent.link/) [[Tor](http://silentlnit5ryavvfz5vw7s4qg62jujd666lnc4tg2chj64zuwuqtvqd.onion/)] - a global mobile and phone number provider for  eSIM-compatible smartphones
 
 ### **Crypto SMS Providers**
 - [JMP](https://jmp.chat) - allows you to send and receive text messages, pictures, phone calls, and voicemails using a Jabber (XMPP) client
 - [TextVerified](https://textverified.com)- SMS verficiation service that accepts Crypto
-- [SMSPVA](http://smspva.com/) - offers a large list of SMS verification numbers you can rent with BTC
+- [SMSPVA](https://smspva.com/) - offers a large list of SMS verification numbers you can rent with BTC
 - [JuicySMS](https://juicysms.com/) - verify online accounts with temporary real phone numbers
-- [Virtualsim](https://virtualsim.co/) - cheap SMS service for hundreds of services and many countries 
-- [SMS4Sats](https://sms4sats.com/) - offers SMS verification numbers online
+- [SMS4Sats](https://sms4sats.com/) [[Tor](http://sms4sat6y7lkq4vscloomatwyj33cfeddukkvujo2hkdqtmyi465spid.onion/)] - offers SMS verification numbers online
 
 ---
 ## **Privacy and Security Articles**
 ### **Guides**
-- [AnonymousPlanet.org](https://anonymousplanet.org/) - a community contributed online guide to anonymity written for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed, censored, harassed anywhere
-- [PrivacyGuides.org](https://www.privacyguides.org/) - a non-profit, socially motivated website that provides information for protecting your data security and privacy
+- [Anonymous Planet](https://anonymousplanet.org/) - a community contributed online guide to anonymity written for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed, censored, harassed anywhere
+- [Privacy Guides](https://www.privacyguides.org/) - a non-profit, socially motivated website that provides information for protecting your data security and privacy
 - [Extreme Privacy 4th Edition](https://annas-archive.org/md5/3bca9891bf832a50e0f8d7aee7555eb3) - Michael Bazzell has helped hundreds of celebrities, billionaires, and everyday citizens disappear completely from public view.
-- [AnonymousLand.org](https://www.anonymousland.org) - a community dedicated to providing anonymity enhancing guides and services
+- [Anonymous Land](https://www.anonymousland.org) - a community dedicated to providing anonymity enhancing guides and services
+- [Prism Break](https://prism-break.org) - opt out of global data surveillance programs like prism, xkeyscore and tempora.
+- [The New Oil](https://thenewoil.org/) [[Tor](http://vyrgfx4jz2lnejqduons56ph5xtsrtaoo7ovny53dd7okyzhfsgkzbad.onion/)] - the beginner’s guide to data privacy & cybersecurity
+- [Techlore](https://www.techlore.tech) -  a small team educating people about digital rights, privacy, security, digital control, and other important topics to push the world towards a safer internet
+- [Qubes OS for Anarchists](https://www.anarsec.guide/posts/qubes/) [[Tor](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/posts/qubes/index.html)] - Qubes OS is a security-oriented operating system (OS), which means it is an operating system designed from the ground up to be more difficult to hack. Given that anarchists are regularly targeted for hacking in repressive investigations, Qubes OS is an excellent choice
+- [GrapheneOS for Anarchists](https://www.anarsec.guide/posts/grapheneos/) - [[Tor](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/posts/grapheneos/index.html)] - anarchists should not have phones. if you must use a phone, make it as difficult as possible for an adversary to geotrack it, intercept its messages, or hack it. this means using grapheneos
+- [Tails for Anarchists](https://www.anarsec.guide/posts/tails/) [[Tor](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/posts/tails/index.html)] - tails is an operating system that makes anonymous computer use accessible to everyone. tails is designed to leave no trace of your activity on your computer unless you explicitly configure it to save specific data
+- [Tails Opsec for Anarchists](https://www.anarsec.guide/posts/tails-best/) [[Tor](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/posts/tails-best/index.html)] - additional precautions you can take that are relevant to an anarchist threat model - operational security for tails
+- [Make Your Electronics Tamper-Evident](https://www.anarsec.guide/posts/tamper/) [[Tor](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/posts/tamper/index.html)] - if the police ever have physical access to an electronic device like a laptop, even for five minutes, they can install hardware keyloggers, create images of the storage media, or otherwise trivially compromise it at the hardware, firmware, or software level. one way to minimize this risk is to make it tamper-evident
+- [Encrypted Messaging for Anarchists](https://www.anarsec.guide/posts/e2ee/) [[Tor](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/posts/e2ee/index.html)] - This article provides an overview and installation instructions for Tails, Qubes OS, and GrapheneOS encrypted messengers
+- [Kill the Cop in Your Pocket](https://www.anarsec.guide/posts/nophones/) [[Tor](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/posts/nophones/index.html)] - your phone's location is tracked at all times, and this data is harvested by private companies, allowing police to bypass laws requiring them to obtain a warrant
+- [Remove Identifying Metadata From Files](https://www.anarsec.guide/posts/metadata/) [[Tor](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/posts/metadata/index.html)] - metadata is 'data about data' or 'information about information'. in the context of files, this can mean information that is automatically embedded in the file, and this information can be used to deanonymize you
+- [Defending against Stylometric attacks](https://seirdy.one/posts/2022/07/09/stylometric-fingerprinting-redux/) [[Tor](http://wgq3bd2kqoybhstp77i3wrzbfnsyd27wt34psaja4grqiezqircorkyd.onion/posts/2022/07/09/stylometric-fingerprinting-redux/)] - stylometric fingerprinting analyzes unique writing style (i.e., it uses stylometry) to identify the author of a work. it’s one of the most common techniques for de-anonymization, used by adversaries ranging from trolls to law enforcement
+- [EFF Surveillance Self-Defense: The Basics](https://ssd.eff.org/module-categories/basics) - surveillance self-defense is a digital security guide that teaches you how to assess your personal risk from online spying. it can help protect you from surveillance by those who might want to find out your secrets, from petty criminals to nation states
+- [EFF Surveillance Self-Defense: Tool Guides](https://ssd.eff.org/module-categories/basics) - step-by-step tutorials to help you install and use handy privacy and security tools
 - [Into the Crypt](https://0xacab.org/optout/into-the-crypt) - the art of anti-forensics
 - [Advanced Privacy and Anonymity Using VMs, VPN’s, Tor](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-1/) - a series of guides that explains how to obtain vastly greater freedom, privacy and anonymity through compartmentalization and isolation through nested chains of VPNs and Tor
+- [How to create anonymous Telegram and Signal accounts without a phone](https://web.archive.org/web/20230603151721/https://agorism.blog/anarkio/anonymous-telegram-account) - a guide for using Whonix & Anbox to create anonymous mobile accounts without a phone
+- [Security Tips & Devices for Digital Nomads](https://web.archive.org/web/20231010234237/https://officercia.mirror.xyz/GX0LvoKDcC12ACXzhT3F_3PVRSfEyhE8cJYMZnoia9U) - various tools and gadgets for OpSec, written with a preference for practical usability
+- [Telegram Security Best Practices](https://web.archive.org/web/20231011012559/https://officercia.mirror.xyz/i9-pRa_r9Of1RNf-tnkhJLO9ho3gwhBK-4ARHNFtmvM) - quick tips that will help you sleep better at night when using Telegram
 
 ### **Android**
 - [A brief and informal analysis of F-Droid security](https://wonderfall.dev/fdroid-issues/) - a write-up emphasizing major security issues with F-Droid
@@ -304,16 +299,19 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Android](https://madaidans-insecurities.github.io/android.html) - common ways in which people worsen the security model of android
 
 ### **Secure Messengers**
-- [How to create anonymous Telegram and Signal accounts without a phone](https://web.archive.org/web/20230603151721/https://agorism.blog/anarkio/anonymous-telegram-account) - a guide for using Whonix & Anbox to create anonymous mobile accounts without a phone
-- [Arguments against Signal (2019)](https://web.archive.org/web/20230708054922/https://github.com/privacytools/privacytools.io/issues/779) - arguments against the popular secure messenger Signal
+- [Secure Communications Comparison](https://wiki.wired.rehab/index.php?title=Secure_Communications#cite_ref-26) - communicating securely over the internet is a must. this article compares available and actively-developed projects that are used for secure communications
+- [Signal Privacy Concerns (2019)](https://web.archive.org/web/20230708054922/https://github.com/privacytools/privacytools.io/issues/779) - arguments against the popular secure messenger signal
 - [A security analysis comparison between Signal, WhatsApp and Telegram [PDF]](https://eprint.iacr.org/2023/071.pdf) - a security analysis comparison between the three popular instant messaging apps. The analysis will focus on the encryption protocols used by each app and the security features they offer
-- [Wire (and Signal) use privacy-hostile Amazon AWS](https://web.archive.org/web/20221006232343/https://github.com/wireapp/wire/issues/265) - Wire (and Signal) are centralized on Amazon's AWS... there are substantial privacy and ethical issues with this
+- [Wire (and Signal) use privacy-hostile Amazon AWS](https://web.archive.org/web/20221006232343/https://github.com/wireapp/wire/issues/265) - wire (and signal) are centralized on amazon's aws... there are substantial privacy and ethical issues with this
 - [XMPP: An Under-appreciated Attack Surface](https://bishopfox.com/blog/xmpp-underappreciated-attack-surface) - a demonstration for why XMPP is of interest to penetration testers, security researchers, and defenders
-- [Wiretapping the largest Russian XMPP server](https://notes.valdikss.org.ru/jabber.ru-mitm/) - XMPP (Jabber) instant messaging protocol encrypted TLS connection wiretapping (Man-in-the-Middle attack) of jabber[.]ru (aka xmpp[.]ru) service’s servers on Hetzner and Linode hosting providers in Germany
-- [XMPP: Admin-in-the-middle](https://web.archive.org/web/20211215132539/https://infosec-handbook.eu/articles/xmpp-aitm/) - In our opinion, you can’t refer to XMPP-based messaging as “privacy-friendly” as long as you don’t control all XMPP servers. An XMPP administrator (or any other server-side party) can inject arbitrary messages, modify address books, and log passwords in cleartext
+- [Wiretapping the largest Russian XMPP server](https://notes.valdikss.org.ru/jabber.ru-mitm/) - xmpp (jabber) instant messaging protocol encrypted tls connection wiretapping (man-in-the-middle attack) of jabber[.]ru (aka xmpp[.]ru) service’s servers on hetzner and linode hosting providers in germany
+- [XMPP: Admin-in-the-middle](https://web.archive.org/web/20211215132539/https://infosec-handbook.eu/articles/xmpp-aitm/) - in our opinion, you can’t refer to xmpp-based messaging as “privacy-friendly” as long as you don’t control all xmpp servers. an xmpp administrator (or any other server-side party) can inject arbitrary messages, modify address books, and log passwords in cleartext
 - [What a malicious Matrix homeserver admin can do](https://blog.erethon.com/blog/2022/07/13/what-a-malicious-matrix-homeserver-admin-can-do/) - potential passive and active attacks from malicious homeserver admins
-- [Matrix? No, thanks.](https://hackea.org/notas/matrix.html) - Matrix keeps growing. Even the French government decided to use it. However, many Free Software activists refuse to use it
-- [Session's Lack of Perfect Forward Security](https://github.com/oxen-io/session-desktop/issues/2338) - "We don't have any current plans to reintroduce PFS"
+- [Matrix? No, thanks.](https://hackea.org/notas/matrix.html) - matrix keeps growing. even the french government decided to use it. however, many free software activists refuse to use it
+- [Session's Lack of Perfect Forward Security](https://github.com/oxen-io/session-desktop/issues/2338) - "we don't have any current plans to reintroduce pfs"
+- [Matrix Metadata Leakage](https://web.archive.org/web/20210202175947/https://serpentsec.1337.cx/matrix) - exactly what metadata Matrix leaks and why
+- [Matrix linked Amdocs found tapping South African cell phones](https://www.news24.com/news24/spy-cables-were-israeli-spies-tapping-sa-cellphones-20150430) - south african agents wrote in a 2009 document that they suspected that israel’s secret service, mossad, was using israeli software giant amdocs to eavesdrop on mobile phone conversations and gather data
+- [Why Not Matrix?](https://telegra.ph/why-not-matrix-08-07) - 22 reasons why not to use matrix
 
 ### **Desktop**
 - [Desktop Linux Hardening](https://privsec.dev/os/desktop-linux-hardening/) - a guide that intermediate to advanced Linux users can reasonably follow to set up and maintain hardened  security configurations
