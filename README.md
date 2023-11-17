@@ -198,10 +198,13 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [AnarSec](https://www.anarsec.guide/) - tech guides for anarchists
 - [Anonymous Land](https://www.anonymousland.org) - a community dedicated to providing anonymity enhancing guides and services
 - [Anonymous Planet](https://anonymousplanet.org/) - a community contributed online guide to anonymity written for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed, censored, harassed anywhere
+- [Cryptome](https://cryptome.org/) - cryptome welcomes documents for publication that are prohibited by governments worldwide, in particular material on freedom of expression, privacy, cryptology, dual-use technologies, national security, intelligence, and secret governance—open, secret and classified documents—but not limited to those
 - [Electronic Frontier Foundation](https://www.eff.org) - the leading nonprofit organization defending civil liberties in the digital world. Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. EFF's mission is to ensure that technology supports freedom, justice, and innovation for all people of the world.
+- [Paralelní Polis](https://www.paralelnipolis.cz/en/) - paralelní polis is a one-­of-­a-­kind nonprofit organization founded by members of a contemporary-­art group ztohoven. the mission of paralelní polis is to provide the technology and education people need to participate in an independent society and protect their individual freedom. the vision of paralelní polis is a world where people have the opportunity to disengage from the state and live in a free society
 - [Privacy Guides](https://www.privacyguides.org/) - a non-profit, socially motivated website that provides information for protecting your data security and privacy
 - [Tor Project](https://www.torproject.org/) - fights every day for everyone to have private access to an uncensored internet, and Tor has become the world's strongest tool for privacy and freedom online
 - [Veilid](https://veilid.com/) - framework that allows anyone to build a distributed, private app. Veilid gives users the privacy to opt out of data collection and online tracking. Veilid is being built with user experience, privacy, and safety as our top priorities. It is open source and available to everyone to use and build upon
+- [WikiLeaks](https://wikileaks.org/) - wikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying and corruption. It has so far published more than 10 million documents and associated analyses
 
 ---
 ## **Cryptocurrency Resources**
@@ -378,6 +381,20 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [SuperCookie](https://supercookie.me/) - uses favicons to assign a unique identifier to website visitors. this ID can be stored almost persistently and cannot be easily cleared by the user
 - [Webgl Fingerprinting](https://webbrowsertools.com/webgl-fingerprint/) - uses different techniques to recognize whether a browser extension is spoofing the webgl fingerprint
 - [Zardaxt.py](https://github.com/NikolaiT/zardaxt) - TCP/IP fingerprinting for VPN and Proxy Detection
+
+---
+## **Surveillance Technology**
+
+- [Harris: Wide Area Airborne Motion Imagery](https://yewtu.be/watch?v=ptSeU-OnI8E) - wide-area motion imagery offers persistent, real-time surveillance for enhanced situation awareness through an intelligent, airborne sensor system
+- [CRI LodeStar Wide Area Motion Imagery (WAMI)](https://yewtu.be/watch?v=gM8OlvF_g6s) - a demonstration of cri lodestar wide area motion imagery (wami) system
+- [Harris: Airborne Augmented Reality]() - video with augmented reality overlays enhances situation awareness for teams in the field, analysts and decision makers. overlays poi features, building names, and road names
+- [Harris: Locate GPS Jamming](https://yewtu.be/watch?v=XMpBxrNaV84) -  harris signal sentry 1000 is a gps interference detection and geolocation solution. it provides a web-based visualization tool to support timely and effective actionable intelligence.
+- [Harris: Material Identification](https://web.archive.org/web/20220711210128/https://www.l3harris.com/all-capabilities/material-identification) - harris material identification technology enables remote sensing systems to detect, identify and geolocate the presence of solid materials and gasses – on earth and in the atmosphere
+- [Elbit Systems / SPECTRO XR](https://yewtu.be/watch?v=Nps40JREIDk) - spectro xr integrates a wide range of digital imaging, high-definition optical sensors and advanced lasers, providing simultaneous multi-spectral observation capabilities and enabling ultra-long-range detection. 
+- [Police thermal imaging finds cannabis factory ](https://yewtu.be/watch?v=ByI6ItVXTB8) - It was a case of being caught red handed when the West Midlands Police helicopter found this cannabis factory using its thermal imaging camera
+- [The Stingray: How Law Enforcement Can Track Your Every Move](https://yewtu.be/watch?v=wzSgLpNrr2E) - a "cell site simulator" initially developed for military use, Stingrays have made their way into local police and sheriff's departments around the country
+- [How Police Cameras Recognize and Track You](https://yewtu.be/watch?v=9Xg-7FfLIVw) - wired spoke with several experts about the explosion of surveillance technology, how police use it, and what the dangers might be. as tech advances, street cameras can now employ facial recognition and even connect to the internet. what does this mean for the future of privacy? 
+- [How China’s Surveillance Is Growing More Invasive](https://yewtu.be/watch?v=Oo_FM3mjBCY) - analysis of over 100,000 government bidding documents found that China’s ambition to collect digital and biological data from its citizens is more expansive and invasive than previously known
 
 ---
 ## **Awesome Git Resource Mirrors and Projects**
