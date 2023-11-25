@@ -206,6 +206,17 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Veilid](https://veilid.com/) - framework that allows anyone to build a distributed, private app. Veilid gives users the privacy to opt out of data collection and online tracking. Veilid is being built with user experience, privacy, and safety as our top priorities. It is open source and available to everyone to use and build upon
 - [WikiLeaks](https://wikileaks.org/) - wikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying and corruption. It has so far published more than 10 million documents and associated analyses
 
+### **Volunteering**
+- [Seed Anna's Archive Torrents](https://annas-archive.org/torrents) - support free access to information by sharing and maintaining torrents from Anna's Archive
+- [Host an IPFS Node](https://docs.ipfs.tech/concepts/nodes/#delegate-routing-node) - help to distribute and store files in a decentralized manner using the InterPlanetary File System (IPFS)
+- [Host a Tor Node](https://community.torproject.org/relay/) - contribute to online privacy and anonymity by running a node in the Tor network, allowing users to access the internet securely
+- [Host a full Monero Node](https://sethforprivacy.com/guides/run-a-monero-node-advanced/) - help secure the Monero network and support private transactions by operating a full node for the Monero cryptocurrency
+- [Host a full Bitcoin Node](https://bitcoin.org/en/full-node) - contribute to the security and resilience of the Bitcoin network by hosting a full node that validates and verifies transactions
+- [Host a Privacy Front-End Service](https://git.hackliberty.org/Awesome-Mirrors/alternative-front-ends) - host alternative open-source interfaces for popular internet platforms like YouTube and Twitter, designed to prioritize user privacy and data protection
+- [Offer Services as a Proxy Merchant](https://dys2p.com/en/konzept.html) - proxy merchants offer a service where individuals without government ID can access financial services, rentals, and receive mail through a shell company or trust established by someone with valid identification, providing prepaid debit cards, a PO box for mail, and the ability to rent under the company name
+- [Offer P2P Crypto Trading](https://localmonero.co/how-to-buy-or-sell-monero-anonymously-with-cash) - enable users to trade crypto directly without intermediaries and KYC exchanges
+- [Start a Second Realm](https://ia801807.us.archive.org/34/items/second-realm-digital/Second%20Realm%20Paperback%20New.pdf) - create a community-driven alternative society that emphasizes self-sufficiency, resilience, and voluntary cooperation outside of traditional structures
+
 ---
 ## **Cryptocurrency Resources**
 ### **NoKYC Guides**
@@ -395,6 +406,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [The Stingray: How Law Enforcement Can Track Your Every Move](https://yewtu.be/watch?v=wzSgLpNrr2E) - a "cell site simulator" initially developed for military use, Stingrays have made their way into local police and sheriff's departments around the country
 - [How Police Cameras Recognize and Track You](https://yewtu.be/watch?v=9Xg-7FfLIVw) - wired spoke with several experts about the explosion of surveillance technology, how police use it, and what the dangers might be. as tech advances, street cameras can now employ facial recognition and even connect to the internet. what does this mean for the future of privacy? 
 - [How China’s Surveillance Is Growing More Invasive](https://yewtu.be/watch?v=Oo_FM3mjBCY) - analysis of over 100,000 government bidding documents found that China’s ambition to collect digital and biological data from its citizens is more expansive and invasive than previously known
+- [Homeland Security Uses AI Tool to Analyze Social Media of U.S. Citizens and Refugees](https://www.vice.com/en/article/m7bge3/dhs-uses-ai-tool-babel-x-babel-street-social-media-citizens-refugees) - babel x may provide to analysts a target’s name, date of birth, address, usernames, email address, phone number, social media content, images, IP address, Social Security number, driver’s license number, employment history, and location data based on geolocation tags and also cell phone gps tracking
 
 ---
 ## **Awesome Git Resource Mirrors and Projects**
