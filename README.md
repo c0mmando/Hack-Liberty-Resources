@@ -460,6 +460,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [tillitis-key](https://git.hackliberty.org/Git-Mirrors/tillitis-key) - board designs, FPGA verilog, firmware for TKey, the flexible and open USB security key
 
 ### **Misc**
+- [alternative-search-engines-and-video-hosting](https://stolenhistory.net/threads/alternative-search-engines-video-sites-to-google-youtube.3771/) - alternative platforms for news and video sharing 
 - [awesome-lockpicking](https://git.hackliberty.org/Awesome-Mirrors/awesome-lockpicking) - a curated list of resources related to the compromise of locks, safes, and keys
 - [awesome-readme](https://git.hackliberty.org/Awesome-Mirrors/awesome-readme) - a curated list of awesome READMEs
  - [search-engine-optimization](https://git.hackliberty.org/Awesome-Mirrors/search-engine-optimization) - a helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques
