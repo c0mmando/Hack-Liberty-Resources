@@ -194,7 +194,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Vonu Podcast](https://vonupodcast.com) - the podcast making you invulnerable to the coercion of the State and the servile society
 
 ### **Projects & Organizations**
-- [Annas Archive](https://annas-archive.org/) - the world’s largest open-source open-data library. mirrors sci-hub, library genesis, z-library, and more. 22,052,322 books, 97,847,390 papers, 2,451,032 comics, 673,013 magazines — preserved forever.
+- [Annas Archive](https://annas-archive.org/) - the world’s largest open-source open-data library. mirrors sci-hub, library genesis, z-library, Mirrors Sci-Hub, LibGen, Z-Lib, and more. 25,077,770 books, 99,425,873 papers — preserved forever.
 - [AnarSec](https://www.anarsec.guide/) - tech guides for anarchists
 - [Anonymous Land](https://www.anonymousland.org) - a community dedicated to providing anonymity enhancing guides and services
 - [Anonymous Planet](https://anonymousplanet.org/) - a community contributed online guide to anonymity written for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed, censored, harassed anywhere
