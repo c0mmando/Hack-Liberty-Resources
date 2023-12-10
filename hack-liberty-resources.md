@@ -28,6 +28,7 @@ We are a group of cypherpunks, privacy advocates, engineers, and philosophers de
 All our services use open source software and are open to the public. We **[anonymize logs](https://www.supertechcrew.com/anonymizing-logs-nginx-apache/)** and use **[full disk encryption](https://gitlab.com/cryptsetup/cryptsetup)** to preserve user privacy. Our hosting provider **[1984](http://1984.hosting/)** is located in **[Iceland](https://ctemplar.com/icelandic-privacy-laws/)** and supports human rights and free speech. Our **[Matrix Server](https://matrix.org/)** uses a **[hardened memory allocator](https://github.com/GrapheneOS/hardened_malloc)** and we use **[Alpine Linux](https://wiki.alpinelinux.org/wiki/Alpine_Linux:Overview)** whenever possible.
 
 - [Matrix](https://hackliberty.org/register)  [[Tor](http://54ct5xaioq64ejuxfpyuxyuati4aplp2dlebr3t5ug7ck62i5tsaiuid.onion/register)] - an open protocol for real-time, distributed communications with strong end-to-end encryption, user verification, and other cryptographic protection mechanisms. **[Register Here](https://hackliberty.org/register)** 
+- [Forum](https://forum.hackliberty.org) - discuss and advocate for the use of encryption, privacy technologies, and decentralized systems to promote freedom and protect digital rights
 - [Element](https://element.hackliberty.org) - a glossy Matrix client for the web built on top of matrix-react-sdk with an emphasis on performance and usability
 - [SchildiChat](https://chat.hackliberty.org) - a Matrix client for the web based on Element with a more traditional instant messaging experience
 - [Lemmy](https://links.hackliberty.org) - a link aggregator and forum for the fediverse
@@ -53,11 +54,11 @@ All our services use open source software and are open to the public. We **[anon
 
 ---
 
-**Current number of donations received**: `2`
+**Current number of donations received**: `3`
 
 ---
 
-**Operating Costs**: $220 a month / $2640 a year
+**Operating Costs**: $250 a month / $3000 a year
 
 </div>
 
