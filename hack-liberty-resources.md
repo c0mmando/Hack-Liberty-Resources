@@ -75,7 +75,7 @@ All our services use open source software and are open to the public. We **[anon
 Anyone that agrees to our [Code of Conduct](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md) is welcome to join our [Simplex Chat](https://simplex.chat/) community, a decentralized, metadata resistant alternative to Matrix! Incognito profiles welcome!
 
 - **hackliberty.org / Hack Liberty Community** 
-    - https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FmoQ7oX9zvAX98kvW9e7ap4dLn0UymDhH%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAriOD6vVb9eraQFgnB9eT3hIyzFJOoUQ7tFdPUpvOVVw%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22knogxOxwA6nV1aCiEdgzhg%3D%3D%22%7Dorg:hackliberty.org`
+    - https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2Fr4O0VciuQQ3BrSDimw937Wscu1TIs7eY%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAEXFZim2XsWoNtktFxXgu9vwxX2pyJ12ZrdX7MxzdkFw%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22iuy1jEQ1-yKXH5kqJmirGA%3D%3D%22%7D`
 
 ---
 <div align="center">
