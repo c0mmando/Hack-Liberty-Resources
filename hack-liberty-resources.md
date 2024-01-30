@@ -309,6 +309,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [Telegram Security Best Practices](https://web.archive.org/web/20231011012559/https://officercia.mirror.xyz/i9-pRa_r9Of1RNf-tnkhJLO9ho3gwhBK-4ARHNFtmvM) - quick tips that will help you sleep better at night when using Telegram
 - [EFF Surveillance Self-Defense: The Basics](https://ssd.eff.org/module-categories/basics) - surveillance self-defense is a digital security guide that teaches you how to assess your personal risk from online spying. it can help protect you from surveillance by those who might want to find out your secrets, from petty criminals to nation states
 - [EFF Surveillance Self-Defense: Tool Guides](https://ssd.eff.org/module-categories/basics) - step-by-step tutorials to help you install and use handy privacy and security tools
+- [EFF Street Level Surveillance](https://sls.eff.org/) - EFF’s street-level surveillance project shines a light on the surveillance technologies that law enforcement agencies routinely deploy in our communities
 
 ### **Android**
 - [A brief and informal analysis of F-Droid security](https://wonderfall.dev/fdroid-issues/) - a write-up emphasizing major security issues with F-Droid
