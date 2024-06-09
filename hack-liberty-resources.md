@@ -28,6 +28,7 @@ We are a group of cypherpunks, privacy advocates, engineers, and philosophers de
 All our services use open source software and are open to the public. We **[anonymize logs](https://www.supertechcrew.com/anonymizing-logs-nginx-apache/)** and use **[full disk encryption](https://gitlab.com/cryptsetup/cryptsetup)** to preserve user privacy. Our hosting provider **[1984](http://1984.hosting/)** is located in **[Iceland](https://ctemplar.com/icelandic-privacy-laws/)** and supports human rights and free speech. Our **[Matrix Server](https://matrix.org/)** uses a **[hardened memory allocator](https://github.com/GrapheneOS/hardened_malloc)** and we use **[Alpine Linux](https://wiki.alpinelinux.org/wiki/Alpine_Linux:Overview)** whenever possible.
 
 - [Matrix](https://hackliberty.org/register)  [[Tor](http://54ct5xaioq64ejuxfpyuxyuati4aplp2dlebr3t5ug7ck62i5tsaiuid.onion/register)] - an open protocol for real-time, distributed communications with strong end-to-end encryption, user verification, and other cryptographic protection mechanisms. **[Register Here](https://hackliberty.org/register)** 
+- [Simplex](https://simplex.hackliberty.org/) [[Tor](http://gstc5w42xawazcr4txrcyhitmkhiyu2vkkwy2xhwovbhlapzrccjeyad.onion/)] - the first messaging network operating without user identifiers of any kind - 100% private by design! 
 - [Forum](https://forum.hackliberty.org) [[Tor](http://yw7nc56v4nsudvwewhmhhwltxpncedfuc43qbubj4nmwhdhwtiu4o6yd.onion/)] - discuss and advocate for the use of encryption, privacy technologies, and decentralized systems to promote freedom and protect digital rights
 - [Element](https://element.hackliberty.org) - a glossy Matrix client for the web built on top of matrix-react-sdk with an emphasis on performance and usability
 - [SchildiChat](https://chat.hackliberty.org) - a Matrix client for the web based on Element with a more traditional instant messaging experience
@@ -72,9 +73,17 @@ All our services use open source software and are open to the public. We **[anon
 </div>
 
 
-Anyone that agrees to our [Code of Conduct](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md) is welcome to join our [Simplex Chat](https://simplex.chat/) community, a decentralized, metadata resistant alternative to Matrix! Incognito profiles welcome!
+Anyone that agrees to our [Code of Conduct](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md) is welcome to join our Simplex [Hack Liberty Community Room](https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2Fr4O0VciuQQ3BrSDimw937Wscu1TIs7eY%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAEXFZim2XsWoNtktFxXgu9vwxX2pyJ12ZrdX7MxzdkFw%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22iuy1jEQ1-yKXH5kqJmirGA%3D%3D%22%7D) and our [Simplex server](https://simplex.hackliberty.org), a decentralized, metadata resistant alternative to Matrix! Incognito profiles welcome!
 
-- **hackliberty.org / Hack Liberty Community** 
+
+
+- **Hack Liberty SMP Server**
+    - `smp://esPsfRFGZd2TRyKijJDorCMo3Ld-QD8Cq8ASx8qrY_Q=@simplex.hackliberty.org,gstc5w42xawazcr4txrcyhitmkhiyu2vkkwy2xhwovbhlapzrccjeyad.onion`
+
+- **Hack Liberty XFTP Server**
+    - `xftp://DfK0yVcc9P5NgfaRR4retNWDDTKFa9g_NqF11maM87Q=@xftp.hackliberty.org,kf25i7slt6skypu47j5kzl4s4nlt3aw3baiocanygf6gprrrbft4dyqd.onion:5233`
+
+- **Hack Liberty Community Room** 
     - https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2Fr4O0VciuQQ3BrSDimw937Wscu1TIs7eY%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAEXFZim2XsWoNtktFxXgu9vwxX2pyJ12ZrdX7MxzdkFw%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22iuy1jEQ1-yKXH5kqJmirGA%3D%3D%22%7D`
 
 ---
@@ -208,6 +217,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [WikiLeaks](https://wikileaks.org/) - wikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying and corruption. It has so far published more than 10 million documents and associated analyses
 
 ### **Volunteer**
+- [Host an Anna's Archive Mirror](https://annas-archive.org/mirrors) - to increase the resiliency of Anna’s Archive, we’re looking for volunteers to run mirrors
 - [Seed Anna's Archive Torrents](https://annas-archive.org/torrents) - support free access to information by sharing and maintaining torrents from Anna's Archive
 - [Host an IPFS Node](https://docs.ipfs.tech/concepts/nodes/#delegate-routing-node) - help to distribute and store files in a decentralized manner using the InterPlanetary File System (IPFS)
 - [Host a Tor Node](https://community.torproject.org/relay/) - contribute to online privacy and anonymity by running a node in the Tor network, allowing users to access the internet securely
@@ -223,6 +233,9 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 ## **Cryptocurrency Resources**
 ### **NoKYC Guides**
 - [How to buy non KYC Bitcoin](https://archive.org/details/how-to-use-text-verified-to-buy-non-kyc-bitcoin-at-a-bitcoin-atm) - how to buy non-KYC bitcoin from a Bitcoin ATM
+- [Fiat to Monero using Haveno DEX (Reto)](https://blog.nihilism.network/servers/haveno-client-f2f/index.html) - In this tutorial we're going to cover how to do a Fiat to Monero trade from the brand new (and long awaited!) Haveno Decentralised Exchange, using the Face-to-Face (F2F) payment method. **NOTE: I don't recommend face-to-face as a payment option of choice, this is just to try out how a basic trade Haveno DEX works!**
+- [How to buy non KYC Monero using Haveno DEX (Reto)](https://blog.nihilism.network/servers/haveno-client-f2f/index.html) - cash by mail on the Haveno Decentralised Exchange
+- [Haveno DEX dispute resolution](https://blog.nihilism.network/servers/haveno-client-f2f/index.html) - how the Haveno DEX handles FIAT -> XMR trade disputes
 - [How to buy non KYC Monero](https://archive.org/details/how-to-buy-non-kyc-monero) - how to buy non-KYC bitcoin at a Bitcoin ATM and convert to Monero using Bisq
 - [How to buy your first non KYC bitcoin and monero](https://archive.org/details/how-to-buy-your-first-non-kyc-bitcoin-and-monero/) - a presentation by Heady Wook
 - [How to buy non KYC bitcoin with a US Postal Money Order on Bisq](https://archive.org/details/how-to-buy-non-kyc-bitcoin-with-a-us-postal-money-order) - how to buy non-KYC bitcoin using a US Postal Money Order on Bisq
@@ -242,8 +255,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 
 ### **Peer to Peer Exchanges**
 - [Bisq](https://bisq.network/) - buy and sell bitcoin or monero for fiat using the Bisq peer-to-peer network
-- [LocalMonero](https://localmonero.co) [[Tor](http://nehdddktmhvqklsnkjqcbpmb63htee2iznpcbs5tgzctipxykpj6yrid.onion/)] - a marketplace where users can buy and sell Monero to and from each other 
-- [AgoraDesk](https://agoradesk.com/) [[Tor](http://2jopbxfi2mrw6pfpmufm7smacrgniglr7a4raaila3kwlhlumflxfxad.onion/)]- P2P site for buying and selling cryptocurrencies
+- [Haveno Reto](https://blog.nihilism.network/servers/haveno-client-f2f/index.html) - Haveno (pronounced ha‧ve‧no) is an open source platform to exchange Monero for fiat currencies like USD, EUR, and GBP or other cryptocurrencies like BTC, ETH, and BCH.
 - [Robosats](https://robosats.com) [[Tor](http://robosats6tkf3eva7x2voqso3a5wcorsnw34jveyxfqi2fu7oyheasid.onion/)]- a peer to peer exchange for converting bitcoin to national currencies via lightning hold invoices
 - [HodlHodl](https://hodlhodl.com/) - global peer to peer bitcoin trading platform
 
@@ -285,11 +297,12 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 ---
 ## **Privacy and Security Articles**
 ### **Guides**
-- [Anonymous Planet](https://anonymousplanet.org/) - a community contributed online guide to anonymity written for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed, censored, harassed anywhere
-- [Privacy Guides](https://www.privacyguides.org/) - a non-profit, socially motivated website that provides information for protecting your data security and privacy
+- [Anonymous Planet](https://anonymousplanet.org/) [[Tor](http://thgtoa3jzy3doku7hkna32htpghjijefscwvh4dyjgfydbbjkeiohgid.onion/)] - a community contributed online guide to anonymity written for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed, censored, harassed anywhere
+- [Privacy Guides](https://www.privacyguides.org/) [[Tor](http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion/en/)] - a non-profit, socially motivated website that provides information for protecting your data security and privacy
 - [Extreme Privacy 4th Edition](https://annas-archive.org/md5/3bca9891bf832a50e0f8d7aee7555eb3) - Michael Bazzell has helped hundreds of celebrities, billionaires, and everyday citizens disappear completely from public view.
-- [Anonymous Land](https://www.anonymousland.org) - a community dedicated to providing anonymity enhancing guides and services
-- [No Trace Project](https://www.notrace.how/) - no trace, no case. a collection of tools to help anarchists and other rebels understand the capabilities of their enemies, undermine surveillance efforts, and ultimately act without getting caught
+- [Nihilism Network](https://blog.nihilism.network/servers/anon.html) [[Tor](http://blog.nihilhfjmj55gfbleupwl2ub7lvbhq4kkoioatiopahfqwkcnglsawyd.onion/)] - ultimately, this blog aims to showcase that technology, when used correctly, can allow one to transcend any limitation. be it to transcend surveillance, centralisation, deanonymization, lack of security. any ability that we have as humans, such as privacy, decentralisation, anonymity, security, plausible deniability can be protected and enhanced by using the correct technology.
+- [Anonymous Land](https://web.archive.org/web/20240308135041/https://anonymousland.org/) - a community dedicated to providing anonymity enhancing guides and services
+- [No Trace Project](https://www.notrace.how/) [[Tor](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)] - no trace, no case. a collection of tools to help anarchists and other rebels understand the capabilities of their enemies, undermine surveillance efforts, and ultimately act without getting caught
 - [Qubes OS for Anarchists](https://www.anarsec.guide/posts/qubes/) [[Tor](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/posts/qubes/index.html)] - Qubes OS is a security-oriented operating system (OS), which means it is an operating system designed from the ground up to be more difficult to hack. Given that anarchists are regularly targeted for hacking in repressive investigations, Qubes OS is an excellent choice
 - [GrapheneOS for Anarchists](https://www.anarsec.guide/posts/grapheneos/) - [[Tor](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/posts/grapheneos/index.html)] - anarchists should not have phones. if you must use a phone, make it as difficult as possible for an adversary to geotrack it, intercept its messages, or hack it. this means using grapheneos
 - [Tails for Anarchists](https://www.anarsec.guide/posts/tails/) [[Tor](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/posts/tails/index.html)] - tails is an operating system that makes anonymous computer use accessible to everyone. tails is designed to leave no trace of your activity on your computer unless you explicitly configure it to save specific data
@@ -299,10 +312,10 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [The Cop in Your Pocket: Your Phone's Location is tracked at ALL times](https://www.anarsec.guide/posts/nophones/) [[Tor](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/posts/nophones/index.html)] - your phone's location is tracked at all times, and this data is harvested by private companies, allowing police to bypass laws requiring them to obtain a warrant
 - [Remove Identifying Metadata From Files](https://www.anarsec.guide/posts/metadata/) [[Tor](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/posts/metadata/index.html)] - metadata is 'data about data' or 'information about information'. in the context of files, this can mean information that is automatically embedded in the file, and this information can be used to deanonymize you
 - [Defending against Stylometric attacks](https://seirdy.one/posts/2022/07/09/stylometric-fingerprinting-redux/) [[Tor](http://wgq3bd2kqoybhstp77i3wrzbfnsyd27wt34psaja4grqiezqircorkyd.onion/posts/2022/07/09/stylometric-fingerprinting-redux/)] - stylometric fingerprinting analyzes unique writing style (i.e., it uses stylometry) to identify the author of a work. it’s one of the most common techniques for de-anonymization, used by adversaries ranging from trolls to law enforcement
-- [Prism Break](https://prism-break.org) - opt out of global data surveillance programs like prism, xkeyscore and tempora.
+- [Prism Break](https://web.archive.org/web/20240605062917/https://prism-break.org/en/) - opt out of global data surveillance programs like prism, xkeyscore and tempora.
 - [The New Oil](https://thenewoil.org/) [[Tor](http://vyrgfx4jz2lnejqduons56ph5xtsrtaoo7ovny53dd7okyzhfsgkzbad.onion/)] - the beginner’s guide to data privacy & cybersecurity
 - [Techlore](https://www.techlore.tech) -  a small team educating people about digital rights, privacy, security, digital control, and other important topics to push the world towards a safer internet
-- [Into the Crypt](https://0xacab.org/optout/into-the-crypt) - the art of anti-forensics
+- [Into the Crypt](https://0xacab.org/optout/into-the-crypt) [[Tor](http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/optout/into-the-crypt)] - the art of anti-forensics
 - [Advanced Privacy and Anonymity Using VMs, VPN’s, Tor](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-1/) - a series of guides that explains how to obtain vastly greater freedom, privacy and anonymity through compartmentalization and isolation through nested chains of VPNs and Tor
 - [How to create anonymous Telegram and Signal accounts without a phone](https://web.archive.org/web/20230603151721/https://agorism.blog/anarkio/anonymous-telegram-account) - a guide for using Whonix & Anbox to create anonymous mobile accounts without a phone
 - [Security Tips & Devices for Digital Nomads](https://web.archive.org/web/20231010234237/https://officercia.mirror.xyz/GX0LvoKDcC12ACXzhT3F_3PVRSfEyhE8cJYMZnoia9U) - various tools and gadgets for OpSec, written with a preference for practical usability
