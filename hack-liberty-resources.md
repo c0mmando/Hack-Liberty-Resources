@@ -32,7 +32,7 @@ All our services use open source software and are open to the public. We **[anon
 - [Forum](https://forum.hackliberty.org) [[Tor](http://yw7nc56v4nsudvwewhmhhwltxpncedfuc43qbubj4nmwhdhwtiu4o6yd.onion/)] - discuss and advocate for the use of encryption, privacy technologies, and decentralized systems to promote freedom and protect digital rights
 - [Element](https://element.hackliberty.org) - a glossy Matrix client for the web built on top of matrix-react-sdk with an emphasis on performance and usability
 - [SchildiChat](https://chat.hackliberty.org) - a Matrix client for the web based on Element with a more traditional instant messaging experience
-- [Lemmy](https://links.hackliberty.org) - a link aggregator and forum for the fediverse
+- [Lemmy](https://links.hackliberty.org) [[Tor](http://snb3ufnp67uudsu25epj43schrerbk7o5qlisr7ph6a3wiez7vxfjxqd.onion/)] - a link aggregator and forum for the fediverse
 - [Gitea](https://git.hackliberty.org) [[Tor](http://vkp7367tcjpqdwwckigrdrvmwvispvbpg5rlsr2chjxvppfg7hipagyd.onion/)]- a painless self-hosted Git service
 - [Bookstack](https://docs.hackliberty.org) - an opinionated wiki system that provides a pleasant and simple out-of-the-box experience 
 - [PrivateBin](https://paste.hackliberty.org) [[Tor](http://z2hx4persafjkxw3u23dly24tzzynvkzrp5r3zbh6jrjvd7c7qjsgvyd.onion/)]- a minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256bit AES in Galois Counter mode
@@ -122,7 +122,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 
 </div>
 
-Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/terms-of-service.md) + [Code of Conduct](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md) + [Privacy Policy](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/privacy-policy.md)] is welcome to [create](https://links.hackliberty.org/signup) a Lemmy account on our server to start sharing links!
+Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/terms-of-service.md) + [Code of Conduct](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md) + [Privacy Policy](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/privacy-policy.md)] is welcome to [create](https://links.hackliberty.org/signup) [[Tor](http://snb3ufnp67uudsu25epj43schrerbk7o5qlisr7ph6a3wiez7vxfjxqd.onion/signup)] a Lemmy account on our server to start sharing links!
 
 - [9/11 Truth](https://links.hackliberty.org/c/911_truth) - `https://links.hackliberty.org/c/911_truth`
 - [Agorism](https://links.hackliberty.org/c/agorism) - `https://links.hackliberty.org/c/agorism`
