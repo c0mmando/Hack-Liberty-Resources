@@ -146,7 +146,7 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 
 ### **Start Here**
 - [Crypto Agorism: Free Markets for a Free World](https://web.archive.org/web/20221031020520/https://agorism.blog/anarkio/crypto-agorism) - how cryptocurrencies are a tool to achieve economic freedom by bypassing traditional financial and state controlled systems
-- [Mark Passio: Natural Law Seminar](https://yewtu.be/watch?v=lWwQCvg1W7w) - the real law of attraction and how to apply it in your life
+- [Mark Passio: Natural Law Seminar](https://iv.datura.network/watch?v=lWwQCvg1W7w) - the real law of attraction and how to apply it in your life
 - [The End of All Evil - Jeremy Locke](https://annas-archive.org/md5/472bb40f21a8e0fc1b3809f2f645ec59) - how to dismantle false beliefs in authority as a means to achieve true freedom and prosperity
 - [Statism: The Most Dangerous Religion](https://yewtu.be/watch?v=QKfT5zv9WRs) - critically examines the belief in state authority as a form of religious faith and indoctrination
 - [Second Realm: Book on Strategy](https://ia801807.us.archive.org/34/items/second-realm-digital/Second%20Realm%20Paperback%20New.pdf) - a book on how to establish second realms or autonomous zones
