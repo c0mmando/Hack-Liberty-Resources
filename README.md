@@ -260,6 +260,9 @@ Anyone that agrees to our [[Terms of Service](https://git.hackliberty.org/hackli
 - [HodlHodl](https://hodlhodl.com/) - global peer to peer bitcoin trading platform
 
 ### **Peer to Peer Crypto Marketplaces and Freelancing**
+- [XMRBazaar](https://xmrbazaar.com/) - a monero marketplace for advertising goods and services that has a non-custodial escrow system so that both buyer and seller are sure the money is actually there
+    - username: **beta** 
+    - password: **tester**
 - [TukanMarket](https://tukan.market/) - a bitcoin marketplace for advertising goods and services
 - [Bitcoin P2P Marketplace](https://t.me/bitcoinp2pmarketplace) - a bitcoin P2P marketplace telegram channel
 - [Monero Market](https://reddit.com/r/moneromarket) - a reddit marketplace for buying and selling items with Monero
